@@ -1,0 +1,5 @@
+model,accuracy,precision_macro,recall_macro,f1_macro
+logistic_regression,1.0,1.0,1.0,1.0
+linear_svc,1.0,1.0,1.0,1.0
+multinomial_nb,1.0,1.0,1.0,1.0
+dummy_most_frequent,0.34464285714285714,0.08616071428571428,0.25,0.12815405046480743

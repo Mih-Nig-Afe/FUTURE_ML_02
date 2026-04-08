@@ -1,0 +1,8 @@
+label,precision,recall,f1-score,support
+Account,1.0,1.0,1.0,123.0
+Billing,1.0,1.0,1.0,157.0
+General Query,1.0,1.0,1.0,87.0
+Technical Issue,1.0,1.0,1.0,193.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,560.0
+weighted avg,1.0,1.0,1.0,560.0

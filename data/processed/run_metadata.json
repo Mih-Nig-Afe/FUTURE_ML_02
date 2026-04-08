@@ -1,0 +1,28 @@
+{
+  "task": "Future Interns ML Task 2 (2026)",
+  "data_source": "user_provided_csv",
+  "rows": {
+    "train": 1680,
+    "validation": 560,
+    "test": 560,
+    "total": 2800
+  },
+  "selected_models": {
+    "category": "logistic_regression",
+    "priority": "logistic_regression"
+  },
+  "test_metrics": {
+    "category": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0
+    },
+    "priority": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0
+    }
+  }
+}

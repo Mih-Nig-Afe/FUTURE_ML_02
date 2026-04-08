@@ -1,0 +1,561 @@
+ticket_text,actual_category,actual_priority,predicted_category,predicted_priority
+API endpoint returns a 500 error for valid requests. Need immediate action before end of business today. for our IT service team,Technical Issue,High,Technical Issue,High
+Invoice amount is incorrect for my last subscription renewal. This is informational and not blocking current work. for our customer success unit,Billing,Low,Billing,Low
+API endpoint returns a 500 error for valid requests. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
+User permissions are wrong for our team workspace. We can continue working but this should be fixed quickly. for our enterprise workspace,Account,Medium,Account,Medium
+Notifications are not being delivered to our users. This is urgent and blocking production. for our startup operations,Technical Issue,High,Technical Issue,High
+Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
+Notifications are not being delivered to our users. We can continue working but this should be fixed quickly. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+How do I set up a recurring report for my team? This is informational and not blocking current work. for our startup operations,General Query,Low,General Query,Low
+I cannot connect to the service from our office network. Need immediate action before end of business today. for our support desk,Technical Issue,High,Technical Issue,High
+Payment failed but my bank statement shows the amount deducted. We can continue working but this should be fixed quickly. for our finance team,Billing,Medium,Billing,Medium
+The app crashes whenever I upload a file larger than 10MB. We can continue working but this should be fixed quickly. for our finance team,Technical Issue,Medium,Technical Issue,Medium
+I need to update account ownership and billing contact. Can be handled when the team has capacity. for our startup operations,Account,Low,Account,Low
+Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
+The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our support desk,Technical Issue,High,Technical Issue,High
+Is there a tutorial for using custom dashboards? Can be handled when the team has capacity. for our enterprise workspace,General Query,Low,General Query,Low
+Please help me reset my password for the admin account. This is informational and not blocking current work. for our startup operations,Account,Low,Account,Low
+I need to update account ownership and billing contact. Can be handled when the team has capacity. for our IT service team,Account,Low,Account,Low
+My account was suspended and I need reactivation support. This is impacting workflow and needs attention soon. for our customer success unit,Account,Medium,Account,Medium
+I need to update account ownership and billing contact. Critical issue affecting multiple paying customers. for our support desk,Account,High,Account,High
+Please help me reset my password for the admin account. Can be handled when the team has capacity. for our enterprise workspace,Account,Low,Account,Low
+Invoice amount is incorrect for my last subscription renewal. Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
+Invoice amount is incorrect for my last subscription renewal. Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
+User permissions are wrong for our team workspace. Can be handled when the team has capacity. for our startup operations,Account,Low,Account,Low
+"Can someone share best practices for onboarding new users? No rush, this is a general improvement request. for our IT service team",General Query,Low,General Query,Low
+System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our customer success unit,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. Need immediate action before end of business today. for our finance team,Technical Issue,High,Technical Issue,High
+I cannot connect to the service from our office network. This is urgent and blocking production. for our finance team,Technical Issue,High,Technical Issue,High
+Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our startup operations,Billing,Medium,Billing,Medium
+My account was suspended and I need reactivation support. Requesting timely support to avoid escalation. for our enterprise workspace,Account,Medium,Account,Medium
+Payment failed but my bank statement shows the amount deducted. We can continue working but this should be fixed quickly. for our startup operations,Billing,Medium,Billing,Medium
+"How do I set up a recurring report for my team? No rush, this is a general improvement request. for our finance team",General Query,Low,General Query,Low
+I need to update account ownership and billing contact. We can continue working but this should be fixed quickly. for our enterprise workspace,Account,Medium,Account,Medium
+System reports an error when we try to export reports. Requesting timely support to avoid escalation. for our finance team,Technical Issue,Medium,Technical Issue,Medium
+I was charged twice for my monthly plan and need a refund. Please prioritize immediately because operations are down. for our startup operations,Billing,High,Billing,High
+Payment failed but my bank statement shows the amount deducted. This is informational and not blocking current work. for our IT service team,Billing,Low,Billing,Low
+"Dashboard is extremely slow and times out on login. No rush, this is a general improvement request. for our customer success unit",Technical Issue,Low,Technical Issue,Low
+My account was suspended and I need reactivation support. This is informational and not blocking current work. for our finance team,Account,Low,Account,Low
+The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
+Dashboard is extremely slow and times out on login. Please prioritize immediately because operations are down. for our IT service team,Technical Issue,High,Technical Issue,High
+I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
+Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our IT service team,Billing,Medium,Billing,Medium
+Notifications are not being delivered to our users. Requesting timely support to avoid escalation. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+Payment failed but my bank statement shows the amount deducted. Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
+Please help me reset my password for the admin account. Critical issue affecting multiple paying customers. for our finance team,Account,High,Account,High
+User permissions are wrong for our team workspace. Critical issue affecting multiple paying customers. for our enterprise workspace,Account,High,Account,High
+Payment failed but my bank statement shows the amount deducted. Critical issue affecting multiple paying customers. for our enterprise workspace,Billing,High,Billing,High
+Notifications are not being delivered to our users. Need immediate action before end of business today. for our support desk,Technical Issue,High,Technical Issue,High
+"How do I set up a recurring report for my team? No rush, this is a general improvement request. for our enterprise workspace",General Query,Low,General Query,Low
+Billing portal shows overdue even though I paid yesterday. Please review within the next business day. for our IT service team,Billing,Medium,Billing,Medium
+Invoice amount is incorrect for my last subscription renewal. Can be handled when the team has capacity. for our startup operations,Billing,Low,Billing,Low
+Billing portal shows overdue even though I paid yesterday. This is impacting workflow and needs attention soon. for our finance team,Billing,Medium,Billing,Medium
+"I am locked out after enabling two factor authentication. Low urgency, just looking for guidance. for our customer success unit",Account,Low,Account,Low
+Please help me reset my password for the admin account. Please prioritize immediately because operations are down. for our startup operations,Account,High,Account,High
+"Can you explain this unexpected charge on my account? No rush, this is a general improvement request. for our support desk",Billing,Low,Billing,Low
+Invoice amount is incorrect for my last subscription renewal. We can continue working but this should be fixed quickly. for our startup operations,Billing,Medium,Billing,Medium
+I cannot connect to the service from our office network. Please review within the next business day. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
+API endpoint returns a 500 error for valid requests. Requesting timely support to avoid escalation. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+I cannot connect to the service from our office network. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
+Where can I find documentation for the analytics module? Critical issue affecting multiple paying customers. for our customer success unit,General Query,High,General Query,High
+API endpoint returns a 500 error for valid requests. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
+Can you explain this unexpected charge on my account? Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
+Invoice amount is incorrect for my last subscription renewal. Need immediate action before end of business today. for our IT service team,Billing,High,Billing,High
+"How do I set up a recurring report for my team? No rush, this is a general improvement request. for our customer success unit",General Query,Low,General Query,Low
+Where can I find documentation for the analytics module? Critical issue affecting multiple paying customers. for our IT service team,General Query,High,General Query,High
+Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our customer success unit,Billing,Medium,Billing,Medium
+Dashboard is extremely slow and times out on login. Critical issue affecting multiple paying customers. for our customer success unit,Technical Issue,High,Technical Issue,High
+Payment failed but my bank statement shows the amount deducted. Please review within the next business day. for our customer success unit,Billing,Medium,Billing,Medium
+I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+Notifications are not being delivered to our users. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+I need to update account ownership and billing contact. Requesting timely support to avoid escalation. for our enterprise workspace,Account,Medium,Account,Medium
+Invoice amount is incorrect for my last subscription renewal. This is informational and not blocking current work. for our customer success unit,Billing,Low,Billing,Low
+User permissions are wrong for our team workspace. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
+Notifications are not being delivered to our users. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+I cannot verify my email so onboarding is blocked. We can continue working but this should be fixed quickly. for our finance team,Account,Medium,Account,Medium
+"Billing portal shows overdue even though I paid yesterday. No rush, this is a general improvement request. for our finance team",Billing,Low,Billing,Low
+System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our startup operations,Technical Issue,High,Technical Issue,High
+Notifications are not being delivered to our users. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+I cannot connect to the service from our office network. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
+Do you support integration with third-party CRM tools? This is impacting workflow and needs attention soon. for our customer success unit,General Query,Medium,General Query,Medium
+"I am locked out after enabling two factor authentication. Low urgency, just looking for guidance. for our startup operations",Account,Low,Account,Low
+Is there a tutorial for using custom dashboards? Need immediate action before end of business today. for our support desk,General Query,High,General Query,High
+Can someone share best practices for onboarding new users? We can continue working but this should be fixed quickly. for our finance team,General Query,Medium,General Query,Medium
+Payment failed but my bank statement shows the amount deducted. Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
+"What is included in the business plan compared to basic? Low urgency, just looking for guidance. for our startup operations",General Query,Low,General Query,Low
+System reports an error when we try to export reports. Need immediate action before end of business today. for our IT service team,Technical Issue,High,Technical Issue,High
+API endpoint returns a 500 error for valid requests. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
+Invoice amount is incorrect for my last subscription renewal. Critical issue affecting multiple paying customers. for our enterprise workspace,Billing,High,Billing,High
+I was charged twice for my monthly plan and need a refund. Need immediate action before end of business today. for our enterprise workspace,Billing,High,Billing,High
+Dashboard is extremely slow and times out on login. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. Need immediate action before end of business today. for our support desk,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
+I cannot connect to the service from our office network. This is informational and not blocking current work. for our IT service team,Technical Issue,Low,Technical Issue,Low
+My account was suspended and I need reactivation support. Requesting timely support to avoid escalation. for our finance team,Account,Medium,Account,Medium
+My discount code was not applied to the latest invoice. This is impacting workflow and needs attention soon. for our finance team,Billing,Medium,Billing,Medium
+I was charged twice for my monthly plan and need a refund. This is impacting workflow and needs attention soon. for our IT service team,Billing,Medium,Billing,Medium
+Billing portal shows overdue even though I paid yesterday. Please review within the next business day. for our customer success unit,Billing,Medium,Billing,Medium
+How do I set up a recurring report for my team? Please review within the next business day. for our finance team,General Query,Medium,General Query,Medium
+Please help me reset my password for the admin account. This is urgent and blocking production. for our customer success unit,Account,High,Account,High
+My discount code was not applied to the latest invoice. This is impacting workflow and needs attention soon. for our IT service team,Billing,Medium,Billing,Medium
+Notifications are not being delivered to our users. This is urgent and blocking production. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+The app crashes whenever I upload a file larger than 10MB. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
+Payment failed but my bank statement shows the amount deducted. We can continue working but this should be fixed quickly. for our startup operations,Billing,Medium,Billing,Medium
+Payment failed but my bank statement shows the amount deducted. Need immediate action before end of business today. for our support desk,Billing,High,Billing,High
+I need to update account ownership and billing contact. Can be handled when the team has capacity. for our startup operations,Account,Low,Account,Low
+I cannot connect to the service from our office network. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
+I cannot verify my email so onboarding is blocked. Requesting timely support to avoid escalation. for our support desk,Account,Medium,Account,Medium
+My account was suspended and I need reactivation support. Please prioritize immediately because operations are down. for our support desk,Account,High,Account,High
+I was charged twice for my monthly plan and need a refund. Please review within the next business day. for our startup operations,Billing,Medium,Billing,Medium
+I am locked out after enabling two factor authentication. Please review within the next business day. for our support desk,Account,Medium,Account,Medium
+Can someone share best practices for onboarding new users? This is impacting workflow and needs attention soon. for our support desk,General Query,Medium,General Query,Medium
+I am locked out after enabling two factor authentication. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
+I was charged twice for my monthly plan and need a refund. We can continue working but this should be fixed quickly. for our enterprise workspace,Billing,Medium,Billing,Medium
+Please help me reset my password for the admin account. Can be handled when the team has capacity. for our customer success unit,Account,Low,Account,Low
+I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
+Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our finance team,Billing,Medium,Billing,Medium
+Invoice amount is incorrect for my last subscription renewal. This is urgent and blocking production. for our support desk,Billing,High,Billing,High
+The app crashes whenever I upload a file larger than 10MB. Requesting timely support to avoid escalation. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
+The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
+Can you explain this unexpected charge on my account? Please review within the next business day. for our finance team,Billing,Medium,Billing,Medium
+I need to update account ownership and billing contact. This is urgent and blocking production. for our startup operations,Account,High,Account,High
+Can you explain this unexpected charge on my account? Please prioritize immediately because operations are down. for our enterprise workspace,Billing,High,Billing,High
+System reports an error when we try to export reports. Need immediate action before end of business today. for our startup operations,Technical Issue,High,Technical Issue,High
+How do I set up a recurring report for my team? Please prioritize immediately because operations are down. for our enterprise workspace,General Query,High,General Query,High
+Dashboard is extremely slow and times out on login. This is informational and not blocking current work. for our enterprise workspace,Technical Issue,Low,Technical Issue,Low
+Can someone share best practices for onboarding new users? Please review within the next business day. for our startup operations,General Query,Medium,General Query,Medium
+Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
+System reports an error when we try to export reports. Requesting timely support to avoid escalation. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
+Is there a tutorial for using custom dashboards? This is impacting workflow and needs attention soon. for our support desk,General Query,Medium,General Query,Medium
+The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our finance team,Technical Issue,High,Technical Issue,High
+Invoice amount is incorrect for my last subscription renewal. This is informational and not blocking current work. for our customer success unit,Billing,Low,Billing,Low
+"My discount code was not applied to the latest invoice. No rush, this is a general improvement request. for our finance team",Billing,Low,Billing,Low
+Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our IT service team,Account,Medium,Account,Medium
+My account was suspended and I need reactivation support. We can continue working but this should be fixed quickly. for our enterprise workspace,Account,Medium,Account,Medium
+"I need to update account ownership and billing contact. No rush, this is a general improvement request. for our startup operations",Account,Low,Account,Low
+Notifications are not being delivered to our users. We can continue working but this should be fixed quickly. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+I need to update account ownership and billing contact. Requesting timely support to avoid escalation. for our customer success unit,Account,Medium,Account,Medium
+Billing portal shows overdue even though I paid yesterday. This is urgent and blocking production. for our startup operations,Billing,High,Billing,High
+I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
+User permissions are wrong for our team workspace. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
+System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our startup operations,Billing,Medium,Billing,Medium
+My account was suspended and I need reactivation support. Please prioritize immediately because operations are down. for our IT service team,Account,High,Account,High
+I cannot connect to the service from our office network. Please prioritize immediately because operations are down. for our customer success unit,Technical Issue,High,Technical Issue,High
+Notifications are not being delivered to our users. Please review within the next business day. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+Dashboard is extremely slow and times out on login. Critical issue affecting multiple paying customers. for our support desk,Technical Issue,High,Technical Issue,High
+My account was suspended and I need reactivation support. Need immediate action before end of business today. for our finance team,Account,High,Account,High
+Is there a tutorial for using custom dashboards? We can continue working but this should be fixed quickly. for our startup operations,General Query,Medium,General Query,Medium
+Can someone share best practices for onboarding new users? Can be handled when the team has capacity. for our finance team,General Query,Low,General Query,Low
+Dashboard is extremely slow and times out on login. This is urgent and blocking production. for our customer success unit,Technical Issue,High,Technical Issue,High
+Invoice amount is incorrect for my last subscription renewal. Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
+Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our support desk,Billing,Medium,Billing,Medium
+API endpoint returns a 500 error for valid requests. Please prioritize immediately because operations are down. for our finance team,Technical Issue,High,Technical Issue,High
+I was charged twice for my monthly plan and need a refund. We can continue working but this should be fixed quickly. for our customer success unit,Billing,Medium,Billing,Medium
+Dashboard is extremely slow and times out on login. This is urgent and blocking production. for our finance team,Technical Issue,High,Technical Issue,High
+I am locked out after enabling two factor authentication. This is informational and not blocking current work. for our customer success unit,Account,Low,Account,Low
+Can someone share best practices for onboarding new users? We can continue working but this should be fixed quickly. for our enterprise workspace,General Query,Medium,General Query,Medium
+Can you explain this unexpected charge on my account? We can continue working but this should be fixed quickly. for our IT service team,Billing,Medium,Billing,Medium
+System reports an error when we try to export reports. We can continue working but this should be fixed quickly. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
+Dashboard is extremely slow and times out on login. We can continue working but this should be fixed quickly. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
+API endpoint returns a 500 error for valid requests. Please review within the next business day. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+Dashboard is extremely slow and times out on login. Need immediate action before end of business today. for our support desk,Technical Issue,High,Technical Issue,High
+My account was suspended and I need reactivation support. Requesting timely support to avoid escalation. for our finance team,Account,Medium,Account,Medium
+User permissions are wrong for our team workspace. We can continue working but this should be fixed quickly. for our IT service team,Account,Medium,Account,Medium
+The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
+Notifications are not being delivered to our users. Need immediate action before end of business today. for our IT service team,Technical Issue,High,Technical Issue,High
+I am locked out after enabling two factor authentication. Need immediate action before end of business today. for our startup operations,Account,High,Account,High
+Do you support integration with third-party CRM tools? Please review within the next business day. for our support desk,General Query,Medium,General Query,Medium
+Dashboard is extremely slow and times out on login. Can be handled when the team has capacity. for our IT service team,Technical Issue,Low,Technical Issue,Low
+The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. Need immediate action before end of business today. for our startup operations,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
+"Is there a tutorial for using custom dashboards? Low urgency, just looking for guidance. for our support desk",General Query,Low,General Query,Low
+I was charged twice for my monthly plan and need a refund. Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
+API endpoint returns a 500 error for valid requests. Please prioritize immediately because operations are down. for our support desk,Technical Issue,High,Technical Issue,High
+Payment failed but my bank statement shows the amount deducted. Please review within the next business day. for our support desk,Billing,Medium,Billing,Medium
+"Please help me reset my password for the admin account. No rush, this is a general improvement request. for our support desk",Account,Low,Account,Low
+Invoice amount is incorrect for my last subscription renewal. Please prioritize immediately because operations are down. for our startup operations,Billing,High,Billing,High
+Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our support desk,Billing,Medium,Billing,Medium
+Is there a tutorial for using custom dashboards? Requesting timely support to avoid escalation. for our IT service team,General Query,Medium,General Query,Medium
+My account was suspended and I need reactivation support. This is urgent and blocking production. for our enterprise workspace,Account,High,Account,High
+My discount code was not applied to the latest invoice. Can be handled when the team has capacity. for our enterprise workspace,Billing,Low,Billing,Low
+Invoice amount is incorrect for my last subscription renewal. Requesting timely support to avoid escalation. for our customer success unit,Billing,Medium,Billing,Medium
+User permissions are wrong for our team workspace. Can be handled when the team has capacity. for our IT service team,Account,Low,Account,Low
+Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our finance team,Account,Medium,Account,Medium
+Invoice amount is incorrect for my last subscription renewal. Please review within the next business day. for our enterprise workspace,Billing,Medium,Billing,Medium
+Notifications are not being delivered to our users. We can continue working but this should be fixed quickly. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
+How do I set up a recurring report for my team? Can be handled when the team has capacity. for our enterprise workspace,General Query,Low,General Query,Low
+I need to update account ownership and billing contact. Please prioritize immediately because operations are down. for our customer success unit,Account,High,Account,High
+API endpoint returns a 500 error for valid requests. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
+Notifications are not being delivered to our users. This is impacting workflow and needs attention soon. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+How do I set up a recurring report for my team? Critical issue affecting multiple paying customers. for our IT service team,General Query,High,General Query,High
+"I am locked out after enabling two factor authentication. No rush, this is a general improvement request. for our customer success unit",Account,Low,Account,Low
+"Please help me reset my password for the admin account. Low urgency, just looking for guidance. for our enterprise workspace",Account,Low,Account,Low
+Notifications are not being delivered to our users. Critical issue affecting multiple paying customers. for our customer success unit,Technical Issue,High,Technical Issue,High
+How do I set up a recurring report for my team? Can be handled when the team has capacity. for our enterprise workspace,General Query,Low,General Query,Low
+Dashboard is extremely slow and times out on login. This is urgent and blocking production. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+API endpoint returns a 500 error for valid requests. Please prioritize immediately because operations are down. for our finance team,Technical Issue,High,Technical Issue,High
+I was charged twice for my monthly plan and need a refund. Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
+Notifications are not being delivered to our users. Please prioritize immediately because operations are down. for our finance team,Technical Issue,High,Technical Issue,High
+"Can you explain this unexpected charge on my account? No rush, this is a general improvement request. for our IT service team",Billing,Low,Billing,Low
+"I need to update account ownership and billing contact. No rush, this is a general improvement request. for our customer success unit",Account,Low,Account,Low
+I cannot verify my email so onboarding is blocked. This is informational and not blocking current work. for our support desk,Account,Low,Account,Low
+Notifications are not being delivered to our users. Please review within the next business day. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
+My discount code was not applied to the latest invoice. Please review within the next business day. for our IT service team,Billing,Medium,Billing,Medium
+I am locked out after enabling two factor authentication. We can continue working but this should be fixed quickly. for our support desk,Account,Medium,Account,Medium
+I cannot verify my email so onboarding is blocked. Requesting timely support to avoid escalation. for our startup operations,Account,Medium,Account,Medium
+My discount code was not applied to the latest invoice. Please review within the next business day. for our startup operations,Billing,Medium,Billing,Medium
+"Is there a tutorial for using custom dashboards? Low urgency, just looking for guidance. for our startup operations",General Query,Low,General Query,Low
+"Where can I find documentation for the analytics module? No rush, this is a general improvement request. for our enterprise workspace",General Query,Low,General Query,Low
+Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our finance team,Billing,Medium,Billing,Medium
+"Do you support integration with third-party CRM tools? No rush, this is a general improvement request. for our enterprise workspace",General Query,Low,General Query,Low
+"I was charged twice for my monthly plan and need a refund. Low urgency, just looking for guidance. for our startup operations",Billing,Low,Billing,Low
+I cannot connect to the service from our office network. Please review within the next business day. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+I was charged twice for my monthly plan and need a refund. Please review within the next business day. for our startup operations,Billing,Medium,Billing,Medium
+"Billing portal shows overdue even though I paid yesterday. Low urgency, just looking for guidance. for our finance team",Billing,Low,Billing,Low
+Billing portal shows overdue even though I paid yesterday. Please prioritize immediately because operations are down. for our startup operations,Billing,High,Billing,High
+I cannot connect to the service from our office network. Need immediate action before end of business today. for our startup operations,Technical Issue,High,Technical Issue,High
+Is there a tutorial for using custom dashboards? Can be handled when the team has capacity. for our finance team,General Query,Low,General Query,Low
+My discount code was not applied to the latest invoice. Requesting timely support to avoid escalation. for our customer success unit,Billing,Medium,Billing,Medium
+I was charged twice for my monthly plan and need a refund. Requesting timely support to avoid escalation. for our support desk,Billing,Medium,Billing,Medium
+My account was suspended and I need reactivation support. Please prioritize immediately because operations are down. for our finance team,Account,High,Account,High
+Is there a tutorial for using custom dashboards? We can continue working but this should be fixed quickly. for our finance team,General Query,Medium,General Query,Medium
+Please help me reset my password for the admin account. Please review within the next business day. for our IT service team,Account,Medium,Account,Medium
+Payment failed but my bank statement shows the amount deducted. Requesting timely support to avoid escalation. for our startup operations,Billing,Medium,Billing,Medium
+Can you explain this unexpected charge on my account? Critical issue affecting multiple paying customers. for our IT service team,Billing,High,Billing,High
+System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our support desk,Technical Issue,High,Technical Issue,High
+I cannot connect to the service from our office network. This is informational and not blocking current work. for our startup operations,Technical Issue,Low,Technical Issue,Low
+My discount code was not applied to the latest invoice. This is impacting workflow and needs attention soon. for our enterprise workspace,Billing,Medium,Billing,Medium
+"User permissions are wrong for our team workspace. No rush, this is a general improvement request. for our startup operations",Account,Low,Account,Low
+My discount code was not applied to the latest invoice. Can be handled when the team has capacity. for our customer success unit,Billing,Low,Billing,Low
+Is there a tutorial for using custom dashboards? Requesting timely support to avoid escalation. for our finance team,General Query,Medium,General Query,Medium
+The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our IT service team,Technical Issue,High,Technical Issue,High
+Please help me reset my password for the admin account. Critical issue affecting multiple paying customers. for our customer success unit,Account,High,Account,High
+What is included in the business plan compared to basic? Can be handled when the team has capacity. for our startup operations,General Query,Low,General Query,Low
+API endpoint returns a 500 error for valid requests. Requesting timely support to avoid escalation. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
+User permissions are wrong for our team workspace. Please review within the next business day. for our enterprise workspace,Account,Medium,Account,Medium
+I was charged twice for my monthly plan and need a refund. Need immediate action before end of business today. for our IT service team,Billing,High,Billing,High
+The app crashes whenever I upload a file larger than 10MB. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+I was charged twice for my monthly plan and need a refund. Critical issue affecting multiple paying customers. for our customer success unit,Billing,High,Billing,High
+I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our finance team,Technical Issue,Medium,Technical Issue,Medium
+User permissions are wrong for our team workspace. We can continue working but this should be fixed quickly. for our finance team,Account,Medium,Account,Medium
+User permissions are wrong for our team workspace. This is urgent and blocking production. for our enterprise workspace,Account,High,Account,High
+Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
+Notifications are not being delivered to our users. This is urgent and blocking production. for our customer success unit,Technical Issue,High,Technical Issue,High
+I am locked out after enabling two factor authentication. This is informational and not blocking current work. for our startup operations,Account,Low,Account,Low
+Can someone share best practices for onboarding new users? This is informational and not blocking current work. for our startup operations,General Query,Low,General Query,Low
+"Billing portal shows overdue even though I paid yesterday. Low urgency, just looking for guidance. for our customer success unit",Billing,Low,Billing,Low
+Dashboard is extremely slow and times out on login. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
+I need to update account ownership and billing contact. This is impacting workflow and needs attention soon. for our support desk,Account,Medium,Account,Medium
+Notifications are not being delivered to our users. This is impacting workflow and needs attention soon. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+Do you support integration with third-party CRM tools? Need immediate action before end of business today. for our IT service team,General Query,High,General Query,High
+I was charged twice for my monthly plan and need a refund. Please prioritize immediately because operations are down. for our support desk,Billing,High,Billing,High
+I cannot connect to the service from our office network. Please review within the next business day. for our finance team,Technical Issue,Medium,Technical Issue,Medium
+How do I set up a recurring report for my team? Can be handled when the team has capacity. for our IT service team,General Query,Low,General Query,Low
+Can someone share best practices for onboarding new users? Can be handled when the team has capacity. for our IT service team,General Query,Low,General Query,Low
+"How do I set up a recurring report for my team? Low urgency, just looking for guidance. for our startup operations",General Query,Low,General Query,Low
+I was charged twice for my monthly plan and need a refund. Can be handled when the team has capacity. for our support desk,Billing,Low,Billing,Low
+Dashboard is extremely slow and times out on login. Requesting timely support to avoid escalation. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
+Can you explain this unexpected charge on my account? Can be handled when the team has capacity. for our finance team,Billing,Low,Billing,Low
+Can someone share best practices for onboarding new users? This is urgent and blocking production. for our IT service team,General Query,High,General Query,High
+API endpoint returns a 500 error for valid requests. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
+User permissions are wrong for our team workspace. Can be handled when the team has capacity. for our startup operations,Account,Low,Account,Low
+I need to update account ownership and billing contact. This is informational and not blocking current work. for our IT service team,Account,Low,Account,Low
+Notifications are not being delivered to our users. This is impacting workflow and needs attention soon. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+"Billing portal shows overdue even though I paid yesterday. No rush, this is a general improvement request. for our enterprise workspace",Billing,Low,Billing,Low
+Please help me reset my password for the admin account. This is impacting workflow and needs attention soon. for our finance team,Account,Medium,Account,Medium
+"Do you support integration with third-party CRM tools? Low urgency, just looking for guidance. for our finance team",General Query,Low,General Query,Low
+I need to update account ownership and billing contact. Can be handled when the team has capacity. for our IT service team,Account,Low,Account,Low
+"Notifications are not being delivered to our users. Low urgency, just looking for guidance. for our enterprise workspace",Technical Issue,Low,Technical Issue,Low
+API endpoint returns a 500 error for valid requests. We can continue working but this should be fixed quickly. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+I cannot verify my email so onboarding is blocked. This is urgent and blocking production. for our support desk,Account,High,Account,High
+Notifications are not being delivered to our users. We can continue working but this should be fixed quickly. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+Notifications are not being delivered to our users. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
+Can someone share best practices for onboarding new users? Can be handled when the team has capacity. for our IT service team,General Query,Low,General Query,Low
+"Where can I find documentation for the analytics module? No rush, this is a general improvement request. for our support desk",General Query,Low,General Query,Low
+How do I set up a recurring report for my team? This is impacting workflow and needs attention soon. for our support desk,General Query,Medium,General Query,Medium
+Invoice amount is incorrect for my last subscription renewal. We can continue working but this should be fixed quickly. for our IT service team,Billing,Medium,Billing,Medium
+Is there a tutorial for using custom dashboards? Critical issue affecting multiple paying customers. for our customer success unit,General Query,High,General Query,High
+Where can I find documentation for the analytics module? Requesting timely support to avoid escalation. for our startup operations,General Query,Medium,General Query,Medium
+I was charged twice for my monthly plan and need a refund. Please review within the next business day. for our IT service team,Billing,Medium,Billing,Medium
+I am locked out after enabling two factor authentication. Please review within the next business day. for our IT service team,Account,Medium,Account,Medium
+Do you support integration with third-party CRM tools? Please review within the next business day. for our startup operations,General Query,Medium,General Query,Medium
+Please help me reset my password for the admin account. Need immediate action before end of business today. for our customer success unit,Account,High,Account,High
+Payment failed but my bank statement shows the amount deducted. Please prioritize immediately because operations are down. for our IT service team,Billing,High,Billing,High
+Dashboard is extremely slow and times out on login. This is impacting workflow and needs attention soon. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+What is included in the business plan compared to basic? Can be handled when the team has capacity. for our customer success unit,General Query,Low,General Query,Low
+System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+I cannot verify my email so onboarding is blocked. Need immediate action before end of business today. for our support desk,Account,High,Account,High
+Do you support integration with third-party CRM tools? Need immediate action before end of business today. for our startup operations,General Query,High,General Query,High
+Can you explain this unexpected charge on my account? Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
+Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
+System reports an error when we try to export reports. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
+Notifications are not being delivered to our users. This is urgent and blocking production. for our startup operations,Technical Issue,High,Technical Issue,High
+"The app crashes whenever I upload a file larger than 10MB. No rush, this is a general improvement request. for our IT service team",Technical Issue,Low,Technical Issue,Low
+Dashboard is extremely slow and times out on login. Need immediate action before end of business today. for our IT service team,Technical Issue,High,Technical Issue,High
+I was charged twice for my monthly plan and need a refund. Critical issue affecting multiple paying customers. for our finance team,Billing,High,Billing,High
+Please help me reset my password for the admin account. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
+I cannot connect to the service from our office network. This is urgent and blocking production. for our finance team,Technical Issue,High,Technical Issue,High
+Payment failed but my bank statement shows the amount deducted. Please review within the next business day. for our support desk,Billing,Medium,Billing,Medium
+User permissions are wrong for our team workspace. Please prioritize immediately because operations are down. for our IT service team,Account,High,Account,High
+Can someone share best practices for onboarding new users? Can be handled when the team has capacity. for our IT service team,General Query,Low,General Query,Low
+I was charged twice for my monthly plan and need a refund. This is impacting workflow and needs attention soon. for our enterprise workspace,Billing,Medium,Billing,Medium
+My discount code was not applied to the latest invoice. Need immediate action before end of business today. for our finance team,Billing,High,Billing,High
+API endpoint returns a 500 error for valid requests. We can continue working but this should be fixed quickly. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
+I am locked out after enabling two factor authentication. Can be handled when the team has capacity. for our enterprise workspace,Account,Low,Account,Low
+I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. Requesting timely support to avoid escalation. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
+"I am locked out after enabling two factor authentication. No rush, this is a general improvement request. for our support desk",Account,Low,Account,Low
+I cannot connect to the service from our office network. We can continue working but this should be fixed quickly. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+"Please help me reset my password for the admin account. No rush, this is a general improvement request. for our enterprise workspace",Account,Low,Account,Low
+I was charged twice for my monthly plan and need a refund. This is impacting workflow and needs attention soon. for our IT service team,Billing,Medium,Billing,Medium
+Please help me reset my password for the admin account. Please review within the next business day. for our IT service team,Account,Medium,Account,Medium
+I was charged twice for my monthly plan and need a refund. Please prioritize immediately because operations are down. for our customer success unit,Billing,High,Billing,High
+Invoice amount is incorrect for my last subscription renewal. Please review within the next business day. for our enterprise workspace,Billing,Medium,Billing,Medium
+Payment failed but my bank statement shows the amount deducted. Can be handled when the team has capacity. for our customer success unit,Billing,Low,Billing,Low
+Invoice amount is incorrect for my last subscription renewal. Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
+System reports an error when we try to export reports. Can be handled when the team has capacity. for our support desk,Technical Issue,Low,Technical Issue,Low
+I am locked out after enabling two factor authentication. This is informational and not blocking current work. for our finance team,Account,Low,Account,Low
+Please help me reset my password for the admin account. This is informational and not blocking current work. for our customer success unit,Account,Low,Account,Low
+API endpoint returns a 500 error for valid requests. Please review within the next business day. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+Payment failed but my bank statement shows the amount deducted. Critical issue affecting multiple paying customers. for our startup operations,Billing,High,Billing,High
+Dashboard is extremely slow and times out on login. Please prioritize immediately because operations are down. for our customer success unit,Technical Issue,High,Technical Issue,High
+I cannot verify my email so onboarding is blocked. Please prioritize immediately because operations are down. for our support desk,Account,High,Account,High
+Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our customer success unit,Account,Medium,Account,Medium
+I cannot connect to the service from our office network. Please prioritize immediately because operations are down. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. This is urgent and blocking production. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our finance team,Technical Issue,Medium,Technical Issue,Medium
+API endpoint returns a 500 error for valid requests. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+Billing portal shows overdue even though I paid yesterday. Requesting timely support to avoid escalation. for our enterprise workspace,Billing,Medium,Billing,Medium
+I am locked out after enabling two factor authentication. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
+Notifications are not being delivered to our users. Critical issue affecting multiple paying customers. for our IT service team,Technical Issue,High,Technical Issue,High
+Invoice amount is incorrect for my last subscription renewal. Need immediate action before end of business today. for our startup operations,Billing,High,Billing,High
+I was charged twice for my monthly plan and need a refund. Can be handled when the team has capacity. for our support desk,Billing,Low,Billing,Low
+Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our IT service team,Account,Medium,Account,Medium
+Can someone share best practices for onboarding new users? This is urgent and blocking production. for our support desk,General Query,High,General Query,High
+Please help me reset my password for the admin account. This is urgent and blocking production. for our support desk,Account,High,Account,High
+Invoice amount is incorrect for my last subscription renewal. Please review within the next business day. for our finance team,Billing,Medium,Billing,Medium
+I need to update account ownership and billing contact. Requesting timely support to avoid escalation. for our enterprise workspace,Account,Medium,Account,Medium
+Do you support integration with third-party CRM tools? We can continue working but this should be fixed quickly. for our enterprise workspace,General Query,Medium,General Query,Medium
+System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
+"Payment failed but my bank statement shows the amount deducted. Low urgency, just looking for guidance. for our finance team",Billing,Low,Billing,Low
+I cannot verify my email so onboarding is blocked. Please prioritize immediately because operations are down. for our support desk,Account,High,Account,High
+I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our customer success unit,Technical Issue,High,Technical Issue,High
+"Invoice amount is incorrect for my last subscription renewal. No rush, this is a general improvement request. for our finance team",Billing,Low,Billing,Low
+"Where can I find documentation for the analytics module? No rush, this is a general improvement request. for our enterprise workspace",General Query,Low,General Query,Low
+"Can someone share best practices for onboarding new users? Low urgency, just looking for guidance. for our finance team",General Query,Low,General Query,Low
+Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our customer success unit,Account,Medium,Account,Medium
+My account was suspended and I need reactivation support. Please prioritize immediately because operations are down. for our support desk,Account,High,Account,High
+"Can someone share best practices for onboarding new users? Low urgency, just looking for guidance. for our finance team",General Query,Low,General Query,Low
+System reports an error when we try to export reports. Requesting timely support to avoid escalation. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
+Dashboard is extremely slow and times out on login. We can continue working but this should be fixed quickly. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+The app crashes whenever I upload a file larger than 10MB. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
+API endpoint returns a 500 error for valid requests. Please review within the next business day. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+"I cannot verify my email so onboarding is blocked. No rush, this is a general improvement request. for our startup operations",Account,Low,Account,Low
+My discount code was not applied to the latest invoice. This is urgent and blocking production. for our support desk,Billing,High,Billing,High
+Notifications are not being delivered to our users. This is urgent and blocking production. for our customer success unit,Technical Issue,High,Technical Issue,High
+Notifications are not being delivered to our users. This is urgent and blocking production. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+What is included in the business plan compared to basic? We can continue working but this should be fixed quickly. for our IT service team,General Query,Medium,General Query,Medium
+Can you explain this unexpected charge on my account? Can be handled when the team has capacity. for our finance team,Billing,Low,Billing,Low
+Payment failed but my bank statement shows the amount deducted. We can continue working but this should be fixed quickly. for our customer success unit,Billing,Medium,Billing,Medium
+My account was suspended and I need reactivation support. This is informational and not blocking current work. for our IT service team,Account,Low,Account,Low
+API endpoint returns a 500 error for valid requests. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
+Invoice amount is incorrect for my last subscription renewal. This is urgent and blocking production. for our enterprise workspace,Billing,High,Billing,High
+Notifications are not being delivered to our users. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
+I cannot connect to the service from our office network. Please prioritize immediately because operations are down. for our finance team,Technical Issue,High,Technical Issue,High
+I cannot connect to the service from our office network. Requesting timely support to avoid escalation. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+Dashboard is extremely slow and times out on login. Requesting timely support to avoid escalation. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+User permissions are wrong for our team workspace. Please review within the next business day. for our finance team,Account,Medium,Account,Medium
+User permissions are wrong for our team workspace. Requesting timely support to avoid escalation. for our customer success unit,Account,Medium,Account,Medium
+"What is included in the business plan compared to basic? No rush, this is a general improvement request. for our finance team",General Query,Low,General Query,Low
+I cannot connect to the service from our office network. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+I am locked out after enabling two factor authentication. Requesting timely support to avoid escalation. for our finance team,Account,Medium,Account,Medium
+Is there a tutorial for using custom dashboards? This is informational and not blocking current work. for our finance team,General Query,Low,General Query,Low
+The app crashes whenever I upload a file larger than 10MB. This is impacting workflow and needs attention soon. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
+User permissions are wrong for our team workspace. Please review within the next business day. for our support desk,Account,Medium,Account,Medium
+API endpoint returns a 500 error for valid requests. We can continue working but this should be fixed quickly. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
+I cannot connect to the service from our office network. Please review within the next business day. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
+Billing portal shows overdue even though I paid yesterday. Critical issue affecting multiple paying customers. for our enterprise workspace,Billing,High,Billing,High
+I cannot connect to the service from our office network. We can continue working but this should be fixed quickly. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
+Is there a tutorial for using custom dashboards? This is informational and not blocking current work. for our finance team,General Query,Low,General Query,Low
+Can someone share best practices for onboarding new users? This is urgent and blocking production. for our finance team,General Query,High,General Query,High
+Dashboard is extremely slow and times out on login. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
+API endpoint returns a 500 error for valid requests. This is impacting workflow and needs attention soon. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+Invoice amount is incorrect for my last subscription renewal. Requesting timely support to avoid escalation. for our startup operations,Billing,Medium,Billing,Medium
+"Where can I find documentation for the analytics module? Low urgency, just looking for guidance. for our finance team",General Query,Low,General Query,Low
+System reports an error when we try to export reports. This is urgent and blocking production. for our customer success unit,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. We can continue working but this should be fixed quickly. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
+"I need to update account ownership and billing contact. No rush, this is a general improvement request. for our support desk",Account,Low,Account,Low
+System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our IT service team,Technical Issue,High,Technical Issue,High
+Notifications are not being delivered to our users. Requesting timely support to avoid escalation. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
+Notifications are not being delivered to our users. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
+API endpoint returns a 500 error for valid requests. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
+Payment failed but my bank statement shows the amount deducted. Please prioritize immediately because operations are down. for our finance team,Billing,High,Billing,High
+I am locked out after enabling two factor authentication. Please prioritize immediately because operations are down. for our customer success unit,Account,High,Account,High
+I cannot verify my email so onboarding is blocked. This is impacting workflow and needs attention soon. for our support desk,Account,Medium,Account,Medium
+Payment failed but my bank statement shows the amount deducted. We can continue working but this should be fixed quickly. for our startup operations,Billing,Medium,Billing,Medium
+My discount code was not applied to the latest invoice. This is informational and not blocking current work. for our IT service team,Billing,Low,Billing,Low
+API endpoint returns a 500 error for valid requests. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
+My discount code was not applied to the latest invoice. This is impacting workflow and needs attention soon. for our enterprise workspace,Billing,Medium,Billing,Medium
+Invoice amount is incorrect for my last subscription renewal. Please review within the next business day. for our startup operations,Billing,Medium,Billing,Medium
+"Please help me reset my password for the admin account. Low urgency, just looking for guidance. for our IT service team",Account,Low,Account,Low
+Payment failed but my bank statement shows the amount deducted. Please review within the next business day. for our IT service team,Billing,Medium,Billing,Medium
+"Notifications are not being delivered to our users. No rush, this is a general improvement request. for our enterprise workspace",Technical Issue,Low,Technical Issue,Low
+Can someone share best practices for onboarding new users? Can be handled when the team has capacity. for our support desk,General Query,Low,General Query,Low
+"How do I set up a recurring report for my team? Low urgency, just looking for guidance. for our IT service team",General Query,Low,General Query,Low
+Payment failed but my bank statement shows the amount deducted. This is informational and not blocking current work. for our support desk,Billing,Low,Billing,Low
+Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
+The app crashes whenever I upload a file larger than 10MB. Please review within the next business day. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+API endpoint returns a 500 error for valid requests. Please review within the next business day. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
+I was charged twice for my monthly plan and need a refund. Requesting timely support to avoid escalation. for our customer success unit,Billing,Medium,Billing,Medium
+The app crashes whenever I upload a file larger than 10MB. This is impacting workflow and needs attention soon. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+Payment failed but my bank statement shows the amount deducted. Requesting timely support to avoid escalation. for our startup operations,Billing,Medium,Billing,Medium
+Can you explain this unexpected charge on my account? Can be handled when the team has capacity. for our enterprise workspace,Billing,Low,Billing,Low
+"Please help me reset my password for the admin account. Low urgency, just looking for guidance. for our support desk",Account,Low,Account,Low
+Do you support integration with third-party CRM tools? We can continue working but this should be fixed quickly. for our IT service team,General Query,Medium,General Query,Medium
+"Billing portal shows overdue even though I paid yesterday. No rush, this is a general improvement request. for our customer success unit",Billing,Low,Billing,Low
+I cannot verify my email so onboarding is blocked. Can be handled when the team has capacity. for our IT service team,Account,Low,Account,Low
+My discount code was not applied to the latest invoice. This is impacting workflow and needs attention soon. for our finance team,Billing,Medium,Billing,Medium
+Where can I find documentation for the analytics module? Please review within the next business day. for our IT service team,General Query,Medium,General Query,Medium
+"Billing portal shows overdue even though I paid yesterday. No rush, this is a general improvement request. for our enterprise workspace",Billing,Low,Billing,Low
+"I need to update account ownership and billing contact. Low urgency, just looking for guidance. for our enterprise workspace",Account,Low,Account,Low
+Dashboard is extremely slow and times out on login. This is impacting workflow and needs attention soon. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
+API endpoint returns a 500 error for valid requests. Requesting timely support to avoid escalation. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+"What is included in the business plan compared to basic? No rush, this is a general improvement request. for our startup operations",General Query,Low,General Query,Low
+I am locked out after enabling two factor authentication. Please review within the next business day. for our customer success unit,Account,Medium,Account,Medium
+"I cannot verify my email so onboarding is blocked. No rush, this is a general improvement request. for our IT service team",Account,Low,Account,Low
+Notifications are not being delivered to our users. Please prioritize immediately because operations are down. for our customer success unit,Technical Issue,High,Technical Issue,High
+"My discount code was not applied to the latest invoice. Low urgency, just looking for guidance. for our support desk",Billing,Low,Billing,Low
+"Please help me reset my password for the admin account. Low urgency, just looking for guidance. for our support desk",Account,Low,Account,Low
+"Is there a tutorial for using custom dashboards? Low urgency, just looking for guidance. for our customer success unit",General Query,Low,General Query,Low
+My account was suspended and I need reactivation support. Requesting timely support to avoid escalation. for our customer success unit,Account,Medium,Account,Medium
+System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our IT service team,Technical Issue,High,Technical Issue,High
+"Can you explain this unexpected charge on my account? No rush, this is a general improvement request. for our customer success unit",Billing,Low,Billing,Low
+I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
+What is included in the business plan compared to basic? We can continue working but this should be fixed quickly. for our IT service team,General Query,Medium,General Query,Medium
+I cannot verify my email so onboarding is blocked. This is impacting workflow and needs attention soon. for our support desk,Account,Medium,Account,Medium
+I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
+The app crashes whenever I upload a file larger than 10MB. Please review within the next business day. for our finance team,Technical Issue,Medium,Technical Issue,Medium
+The app crashes whenever I upload a file larger than 10MB. Can be handled when the team has capacity. for our finance team,Technical Issue,Low,Technical Issue,Low
+Can you explain this unexpected charge on my account? We can continue working but this should be fixed quickly. for our finance team,Billing,Medium,Billing,Medium
+The app crashes whenever I upload a file larger than 10MB. Need immediate action before end of business today. for our support desk,Technical Issue,High,Technical Issue,High
+"I cannot connect to the service from our office network. No rush, this is a general improvement request. for our support desk",Technical Issue,Low,Technical Issue,Low
+The app crashes whenever I upload a file larger than 10MB. Need immediate action before end of business today. for our finance team,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
+"I was charged twice for my monthly plan and need a refund. No rush, this is a general improvement request. for our support desk",Billing,Low,Billing,Low
+Dashboard is extremely slow and times out on login. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
+I cannot verify my email so onboarding is blocked. Please prioritize immediately because operations are down. for our customer success unit,Account,High,Account,High
+Do you support integration with third-party CRM tools? Please prioritize immediately because operations are down. for our IT service team,General Query,High,General Query,High
+"How do I set up a recurring report for my team? No rush, this is a general improvement request. for our customer success unit",General Query,Low,General Query,Low
+Payment failed but my bank statement shows the amount deducted. Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
+I cannot connect to the service from our office network. Please review within the next business day. for our finance team,Technical Issue,Medium,Technical Issue,Medium
+System reports an error when we try to export reports. This is urgent and blocking production. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+What is included in the business plan compared to basic? Can be handled when the team has capacity. for our IT service team,General Query,Low,General Query,Low
+The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our support desk,Technical Issue,High,Technical Issue,High
+Where can I find documentation for the analytics module? Requesting timely support to avoid escalation. for our customer success unit,General Query,Medium,General Query,Medium
+"System reports an error when we try to export reports. Low urgency, just looking for guidance. for our customer success unit",Technical Issue,Low,Technical Issue,Low
+Do you support integration with third-party CRM tools? This is impacting workflow and needs attention soon. for our enterprise workspace,General Query,Medium,General Query,Medium
+Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
+I was charged twice for my monthly plan and need a refund. This is informational and not blocking current work. for our startup operations,Billing,Low,Billing,Low
+Please help me reset my password for the admin account. This is impacting workflow and needs attention soon. for our customer success unit,Account,Medium,Account,Medium
+Billing portal shows overdue even though I paid yesterday. We can continue working but this should be fixed quickly. for our IT service team,Billing,Medium,Billing,Medium
+My discount code was not applied to the latest invoice. Requesting timely support to avoid escalation. for our startup operations,Billing,Medium,Billing,Medium
+I was charged twice for my monthly plan and need a refund. Need immediate action before end of business today. for our finance team,Billing,High,Billing,High
+I need to update account ownership and billing contact. We can continue working but this should be fixed quickly. for our IT service team,Account,Medium,Account,Medium
+System reports an error when we try to export reports. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
+"Is there a tutorial for using custom dashboards? Low urgency, just looking for guidance. for our IT service team",General Query,Low,General Query,Low
+The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
+I cannot connect to the service from our office network. Please prioritize immediately because operations are down. for our finance team,Technical Issue,High,Technical Issue,High
+I was charged twice for my monthly plan and need a refund. We can continue working but this should be fixed quickly. for our finance team,Billing,Medium,Billing,Medium
+My account was suspended and I need reactivation support. We can continue working but this should be fixed quickly. for our enterprise workspace,Account,Medium,Account,Medium
+I was charged twice for my monthly plan and need a refund. Can be handled when the team has capacity. for our customer success unit,Billing,Low,Billing,Low
+"Is there a tutorial for using custom dashboards? No rush, this is a general improvement request. for our support desk",General Query,Low,General Query,Low
+I was charged twice for my monthly plan and need a refund. Please review within the next business day. for our finance team,Billing,Medium,Billing,Medium
+I was charged twice for my monthly plan and need a refund. Please review within the next business day. for our IT service team,Billing,Medium,Billing,Medium
+Invoice amount is incorrect for my last subscription renewal. We can continue working but this should be fixed quickly. for our IT service team,Billing,Medium,Billing,Medium
+"User permissions are wrong for our team workspace. Low urgency, just looking for guidance. for our enterprise workspace",Account,Low,Account,Low
+I was charged twice for my monthly plan and need a refund. Critical issue affecting multiple paying customers. for our support desk,Billing,High,Billing,High
+API endpoint returns a 500 error for valid requests. Please review within the next business day. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+Do you support integration with third-party CRM tools? Please review within the next business day. for our customer success unit,General Query,Medium,General Query,Medium
+Please help me reset my password for the admin account. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
+My account was suspended and I need reactivation support. Need immediate action before end of business today. for our customer success unit,Account,High,Account,High
+Notifications are not being delivered to our users. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
+I need to update account ownership and billing contact. This is urgent and blocking production. for our support desk,Account,High,Account,High
+The app crashes whenever I upload a file larger than 10MB. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
+My discount code was not applied to the latest invoice. Please prioritize immediately because operations are down. for our finance team,Billing,High,Billing,High
+Invoice amount is incorrect for my last subscription renewal. Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
+I need to update account ownership and billing contact. This is urgent and blocking production. for our finance team,Account,High,Account,High
+API endpoint returns a 500 error for valid requests. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our support desk,Technical Issue,High,Technical Issue,High
+"How do I set up a recurring report for my team? Low urgency, just looking for guidance. for our support desk",General Query,Low,General Query,Low
+Do you support integration with third-party CRM tools? Critical issue affecting multiple paying customers. for our enterprise workspace,General Query,High,General Query,High
+I cannot verify my email so onboarding is blocked. This is informational and not blocking current work. for our finance team,Account,Low,Account,Low
+"I need to update account ownership and billing contact. No rush, this is a general improvement request. for our customer success unit",Account,Low,Account,Low
+Notifications are not being delivered to our users. Please review within the next business day. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+My account was suspended and I need reactivation support. We can continue working but this should be fixed quickly. for our startup operations,Account,Medium,Account,Medium
+Payment failed but my bank statement shows the amount deducted. Please review within the next business day. for our enterprise workspace,Billing,Medium,Billing,Medium
+"Do you support integration with third-party CRM tools? No rush, this is a general improvement request. for our customer success unit",General Query,Low,General Query,Low
+Where can I find documentation for the analytics module? We can continue working but this should be fixed quickly. for our enterprise workspace,General Query,Medium,General Query,Medium
+Notifications are not being delivered to our users. We can continue working but this should be fixed quickly. for our finance team,Technical Issue,Medium,Technical Issue,Medium
+Notifications are not being delivered to our users. Please prioritize immediately because operations are down. for our IT service team,Technical Issue,High,Technical Issue,High
+Payment failed but my bank statement shows the amount deducted. Critical issue affecting multiple paying customers. for our startup operations,Billing,High,Billing,High
+Notifications are not being delivered to our users. This is informational and not blocking current work. for our startup operations,Technical Issue,Low,Technical Issue,Low
+My discount code was not applied to the latest invoice. Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
+I was charged twice for my monthly plan and need a refund. This is urgent and blocking production. for our support desk,Billing,High,Billing,High
+Is there a tutorial for using custom dashboards? We can continue working but this should be fixed quickly. for our enterprise workspace,General Query,Medium,General Query,Medium
+The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
+I was charged twice for my monthly plan and need a refund. Requesting timely support to avoid escalation. for our startup operations,Billing,Medium,Billing,Medium
+I cannot connect to the service from our office network. This is informational and not blocking current work. for our startup operations,Technical Issue,Low,Technical Issue,Low
+What is included in the business plan compared to basic? This is informational and not blocking current work. for our customer success unit,General Query,Low,General Query,Low
+The app crashes whenever I upload a file larger than 10MB. Requesting timely support to avoid escalation. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+I cannot connect to the service from our office network. Please prioritize immediately because operations are down. for our customer success unit,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. Requesting timely support to avoid escalation. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
+The app crashes whenever I upload a file larger than 10MB. Critical issue affecting multiple paying customers. for our startup operations,Technical Issue,High,Technical Issue,High
+I cannot connect to the service from our office network. We can continue working but this should be fixed quickly. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
+I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
+Invoice amount is incorrect for my last subscription renewal. Critical issue affecting multiple paying customers. for our support desk,Billing,High,Billing,High
+Invoice amount is incorrect for my last subscription renewal. Please review within the next business day. for our enterprise workspace,Billing,Medium,Billing,Medium
+I am locked out after enabling two factor authentication. Can be handled when the team has capacity. for our enterprise workspace,Account,Low,Account,Low
+Billing portal shows overdue even though I paid yesterday. This is urgent and blocking production. for our IT service team,Billing,High,Billing,High
+I need to update account ownership and billing contact. This is informational and not blocking current work. for our startup operations,Account,Low,Account,Low
+Where can I find documentation for the analytics module? This is informational and not blocking current work. for our IT service team,General Query,Low,General Query,Low
+"Invoice amount is incorrect for my last subscription renewal. Low urgency, just looking for guidance. for our enterprise workspace",Billing,Low,Billing,Low
+I was charged twice for my monthly plan and need a refund. This is urgent and blocking production. for our finance team,Billing,High,Billing,High
+"I need to update account ownership and billing contact. No rush, this is a general improvement request. for our customer success unit",Account,Low,Account,Low
+Can you explain this unexpected charge on my account? This is urgent and blocking production. for our enterprise workspace,Billing,High,Billing,High
+API endpoint returns a 500 error for valid requests. Requesting timely support to avoid escalation. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
+I was charged twice for my monthly plan and need a refund. This is impacting workflow and needs attention soon. for our customer success unit,Billing,Medium,Billing,Medium
+Invoice amount is incorrect for my last subscription renewal. This is urgent and blocking production. for our finance team,Billing,High,Billing,High
+"I cannot verify my email so onboarding is blocked. Low urgency, just looking for guidance. for our finance team",Account,Low,Account,Low
+I need to update account ownership and billing contact. This is informational and not blocking current work. for our startup operations,Account,Low,Account,Low
+I am locked out after enabling two factor authentication. This is urgent and blocking production. for our enterprise workspace,Account,High,Account,High
+Do you support integration with third-party CRM tools? This is urgent and blocking production. for our startup operations,General Query,High,General Query,High
+What is included in the business plan compared to basic? We can continue working but this should be fixed quickly. for our IT service team,General Query,Medium,General Query,Medium
+The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
+System reports an error when we try to export reports. This is impacting workflow and needs attention soon. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+API endpoint returns a 500 error for valid requests. Please review within the next business day. for our support desk,Technical Issue,Medium,Technical Issue,Medium
+Notifications are not being delivered to our users. Please review within the next business day. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
+"What is included in the business plan compared to basic? Low urgency, just looking for guidance. for our enterprise workspace",General Query,Low,General Query,Low
+Billing portal shows overdue even though I paid yesterday. This is impacting workflow and needs attention soon. for our enterprise workspace,Billing,Medium,Billing,Medium
+"Invoice amount is incorrect for my last subscription renewal. Low urgency, just looking for guidance. for our customer success unit",Billing,Low,Billing,Low
+Billing portal shows overdue even though I paid yesterday. Critical issue affecting multiple paying customers. for our startup operations,Billing,High,Billing,High
+Dashboard is extremely slow and times out on login. Need immediate action before end of business today. for our finance team,Technical Issue,High,Technical Issue,High
+Payment failed but my bank statement shows the amount deducted. Critical issue affecting multiple paying customers. for our startup operations,Billing,High,Billing,High
+What is included in the business plan compared to basic? Need immediate action before end of business today. for our finance team,General Query,High,General Query,High
+Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our customer success unit,Account,Medium,Account,Medium
+My discount code was not applied to the latest invoice. Please review within the next business day. for our finance team,Billing,Medium,Billing,Medium
+I cannot connect to the service from our office network. Need immediate action before end of business today. for our startup operations,Technical Issue,High,Technical Issue,High
+"I am locked out after enabling two factor authentication. No rush, this is a general improvement request. for our finance team",Account,Low,Account,Low
+What is included in the business plan compared to basic? This is impacting workflow and needs attention soon. for our IT service team,General Query,Medium,General Query,Medium
+I cannot connect to the service from our office network. This is urgent and blocking production. for our customer success unit,Technical Issue,High,Technical Issue,High
+I am locked out after enabling two factor authentication. This is impacting workflow and needs attention soon. for our support desk,Account,Medium,Account,Medium
+My discount code was not applied to the latest invoice. This is informational and not blocking current work. for our startup operations,Billing,Low,Billing,Low
+Dashboard is extremely slow and times out on login. Requesting timely support to avoid escalation. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
+Can you explain this unexpected charge on my account? This is informational and not blocking current work. for our customer success unit,Billing,Low,Billing,Low
+API endpoint returns a 500 error for valid requests. Need immediate action before end of business today. for our IT service team,Technical Issue,High,Technical Issue,High

@@ -1,0 +1,16 @@
+services:
+  task2:
+    build: .
+    working_dir: /app
+    command: python src/run_pipeline.py
+    volumes:
+      - .:/app
+
+  notebook:
+    build: .
+    working_dir: /app
+    command: jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token=tickets
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
