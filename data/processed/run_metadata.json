@@ -2,27 +2,27 @@
   "task": "Future Interns ML Task 2 (2026)",
   "data_source": "user_provided_csv",
   "rows": {
-    "train": 891,
-    "validation": 297,
-    "test": 297,
-    "total": 1485
+    "train": 34572,
+    "validation": 11525,
+    "test": 11525,
+    "total": 57622
   },
   "selected_models": {
-    "category": "linear_svc",
+    "category": "multinomial_nb",
     "priority": "linear_svc"
   },
   "test_metrics": {
     "category": {
-      "accuracy": 0.8114478114478114,
-      "precision_macro": 0.7403430717537701,
-      "recall_macro": 0.7243676593165113,
-      "f1_macro": 0.731764710073675
+      "accuracy": 0.7736225596529284,
+      "precision_macro": 0.733032327902928,
+      "recall_macro": 0.8078821860266868,
+      "f1_macro": 0.7338977457824686
     },
     "priority": {
-      "accuracy": 0.98989898989899,
-      "precision_macro": 0.9948979591836735,
-      "recall_macro": 0.75,
-      "f1_macro": 0.8307692307692307
+      "accuracy": 0.8967462039045553,
+      "precision_macro": 0.757799797237308,
+      "recall_macro": 0.7012368614974694,
+      "f1_macro": 0.7124220784033843
     }
   }
 }

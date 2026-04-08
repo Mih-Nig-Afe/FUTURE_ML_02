@@ -13,14 +13,14 @@ Tickets are cleaned (lowercasing, punctuation removal, stopword removal), transf
 - Account
 - General Query
 
-Selected category model: **linear_svc**
+Selected category model: **multinomial_nb**
 
 Category test performance:
 
-- Accuracy: 0.8114
-- Precision (macro): 0.7403
-- Recall (macro): 0.7244
-- F1 (macro): 0.7318
+- Accuracy: 0.7736
+- Precision (macro): 0.7330
+- Recall (macro): 0.8079
+- F1 (macro): 0.7339
 
 ## How priority is decided
 
@@ -34,10 +34,10 @@ Selected priority model: **linear_svc**
 
 Priority test performance:
 
-- Accuracy: 0.9899
-- Precision (macro): 0.9949
-- Recall (macro): 0.7500
-- F1 (macro): 0.8308
+- Accuracy: 0.8967
+- Precision (macro): 0.7578
+- Recall (macro): 0.7012
+- F1 (macro): 0.7124
 
 ## How this improves support operations
 

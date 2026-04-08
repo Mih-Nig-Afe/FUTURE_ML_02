@@ -7,6 +7,19 @@
 - Status date: April 8, 2026
 - Overall status: **Complete and verifiable**
 
+## Dataset Sources Used (Exact)
+
+- IT Service Ticket Classification (Kaggle): https://www.kaggle.com/datasets/adisongoh/it-service-ticket-classification-dataset
+  - file: `data/raw/kaggle_it_service_ticket_classification/all_tickets_processed_improved_v3.csv`
+- Customer Support Ticket Dataset (Kaggle): https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset
+  - file: `data/raw/kaggle_customer_support_ticket/customer_support_tickets.csv`
+- Classification of IT Support Tickets (provided local folder)
+  - files: `Classification of IT Support Tickets Authors:Creators /X_train.csv`, `y_train.csv`, `X_test.csv`, `y_test.csv`
+
+Active model training input:
+
+- `data/raw/support_tickets.csv` (canonical merge built from available sources)
+
 ## Requirement Coverage
 
 ### 1) Text cleaning (lowercasing, stopword removal, punctuation handling)

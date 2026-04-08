@@ -24,7 +24,10 @@ CANONICAL_DATASET = RAW_DIR / "support_tickets.csv"
 TEXT_COLUMN_CANDIDATES = [
     "ticket_text",
     "text",
+    "document",
     "description",
+    "ticket description",
+    "ticket subject",
     "ticket_description",
     "issue_description",
     "message",
@@ -34,8 +37,11 @@ TEXT_COLUMN_CANDIDATES = [
 CATEGORY_COLUMN_CANDIDATES = [
     "category",
     "category_truth",
+    "topic_group",
+    "topic group",
     "ticket_category",
     "ticket_type",
+    "ticket type",
     "issue_type",
     "type",
     "topic",
@@ -47,6 +53,8 @@ PRIORITY_COLUMN_CANDIDATES = [
     "urgency",
     "severity",
     "impact",
+    "ticket priority",
+    "ticket_priority",
     "priority_level",
 ]
 

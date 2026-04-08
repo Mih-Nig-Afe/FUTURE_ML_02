@@ -18,8 +18,8 @@ What I implemented:
 
 Final selected models:
 
-- Category: linear_svc (F1 macro: 0.7318)
-- Priority: linear_svc (F1 macro: 0.8308)
+- Category: multinomial_nb (F1 macro: 0.7339)
+- Priority: linear_svc (F1 macro: 0.7124)
 
 Business impact:
 

@@ -2,7 +2,7 @@
 
 ## 60-second version
 
-I built a support ticket classification and prioritization system for Future Interns ML Task 2. The solution reads ticket text, cleans it, creates TF-IDF features, and predicts both category and urgency level. I compared baseline and machine learning classifiers, selected **linear_svc** for category and **linear_svc** for priority, and evaluated them on a holdout test split. The models provide fast triage support so teams can route tickets better and escalate urgent cases earlier.
+I built a support ticket classification and prioritization system for Future Interns ML Task 2. The solution reads ticket text, cleans it, creates TF-IDF features, and predicts both category and urgency level. I compared baseline and machine learning classifiers, selected **multinomial_nb** for category and **linear_svc** for priority, and evaluated them on a holdout test split. The models provide fast triage support so teams can route tickets better and escalate urgent cases earlier.
 
 ## 2 to 3 minute walkthrough
 
@@ -20,19 +20,19 @@ I used TF-IDF for feature extraction and compared multiple models for both class
 
 ### 4. Evaluation
 
-Category model (linear_svc) test metrics:
+Category model (multinomial_nb) test metrics:
 
-- Accuracy: 0.8114
-- Precision (macro): 0.7403
-- Recall (macro): 0.7244
-- F1 (macro): 0.7318
+- Accuracy: 0.7736
+- Precision (macro): 0.7330
+- Recall (macro): 0.8079
+- F1 (macro): 0.7339
 
 Priority model (linear_svc) test metrics:
 
-- Accuracy: 0.9899
-- Precision (macro): 0.9949
-- Recall (macro): 0.7500
-- F1 (macro): 0.8308
+- Accuracy: 0.8967
+- Precision (macro): 0.7578
+- Recall (macro): 0.7012
+- F1 (macro): 0.7124
 
 ### 5. Operational value
 

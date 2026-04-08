@@ -26,16 +26,16 @@ Build a practical decision-support system that can:
 
 Latest verified run date: April 8, 2026
 
-- selected category model: logistic_regression
-- selected priority model: logistic_regression
-- category test accuracy: 1.0000
-- category test precision (macro): 1.0000
-- category test recall (macro): 1.0000
-- category test F1 (macro): 1.0000
-- priority test accuracy: 1.0000
-- priority test precision (macro): 1.0000
-- priority test recall (macro): 1.0000
-- priority test F1 (macro): 1.0000
+- selected category model: multinomial_nb
+- selected priority model: linear_svc
+- category test accuracy: 0.7736
+- category test precision (macro): 0.7330
+- category test recall (macro): 0.8079
+- category test F1 (macro): 0.7339
+- priority test accuracy: 0.8967
+- priority test precision (macro): 0.7578
+- priority test recall (macro): 0.7012
+- priority test F1 (macro): 0.7124
 
 ## Project structure
 
@@ -90,6 +90,19 @@ This Docker dataset flow uses:
 - `kaggle datasets download suraj520/customer-support-ticket-dataset`
 - Local folder merge from `Classification of IT Support Tickets Authors:Creators ` into `data/raw/support_tickets_from_local_it_support.csv`
 - Canonical merged ticket dataset output: `data/raw/support_tickets.csv`
+
+Exact dataset links and local files:
+
+- IT Service Ticket Classification (Kaggle): https://www.kaggle.com/datasets/adisongoh/it-service-ticket-classification-dataset
+   - Local file: `data/raw/kaggle_it_service_ticket_classification/all_tickets_processed_improved_v3.csv`
+- Customer Support Ticket Dataset (Kaggle): https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset
+   - Local file: `data/raw/kaggle_customer_support_ticket/customer_support_tickets.csv`
+- Classification of IT Support Tickets (local provided folder):
+   - Local files: `Classification of IT Support Tickets Authors:Creators /X_train.csv`, `y_train.csv`, `X_test.csv`, `y_test.csv`
+
+Active training dataset used by the NLP pipeline:
+
+- `data/raw/support_tickets.csv` (canonical merge built from all available sources above)
 
 Kaggle auth requirement:
 
