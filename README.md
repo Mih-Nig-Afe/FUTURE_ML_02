@@ -93,7 +93,8 @@ This Docker dataset flow uses:
 
 Kaggle auth requirement:
 
-- Put your Kaggle API token at `~/.kaggle/kaggle.json` on the host machine before running the `datasets` service.
+- Preferred: export `KAGGLE_API_TOKEN` on the host before running Docker.
+- Alternative: put your Kaggle API token file at `~/.kaggle/kaggle.json` on the host machine.
 
 3. Launch Jupyter:
 

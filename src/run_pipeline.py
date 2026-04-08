@@ -32,6 +32,29 @@ REPORTS_DIR = BASE_DIR / "reports"
 
 RAW_DATA_PATH = DATA_RAW_DIR / "support_tickets.csv"
 
+OUTPUT_ARTIFACT_PATHS = [
+    DATA_PROCESSED_DIR / "clean_tickets.csv",
+    DATA_PROCESSED_DIR / "category_model_comparison.csv",
+    DATA_PROCESSED_DIR / "priority_model_comparison.csv",
+    DATA_PROCESSED_DIR / "test_predictions.csv",
+    DATA_PROCESSED_DIR / "category_classification_report.csv",
+    DATA_PROCESSED_DIR / "priority_classification_report.csv",
+    DATA_PROCESSED_DIR / "category_confusion_matrix.csv",
+    DATA_PROCESSED_DIR / "priority_confusion_matrix.csv",
+    DATA_PROCESSED_DIR / "run_metadata.json",
+    FIGURES_DIR / "category_distribution.html",
+    FIGURES_DIR / "priority_distribution.html",
+    FIGURES_DIR / "category_confusion_matrix.html",
+    FIGURES_DIR / "priority_confusion_matrix.html",
+    MODELS_DIR / "category_model.pkl",
+    MODELS_DIR / "priority_model.pkl",
+    REPORTS_DIR / "final_business_summary.md",
+    REPORTS_DIR / "error_analysis.md",
+    REPORTS_DIR / "linkedin_post.md",
+    REPORTS_DIR / "presentation_talk_track.md",
+    REPORTS_DIR / "TASK2_REQUIREMENTS_STATUS.md",
+]
+
 RANDOM_STATE = 42
 SYNTHETIC_ROWS = 2800
 
@@ -141,6 +164,11 @@ def ensure_directories() -> None:
         REPORTS_DIR,
     ]:
         path.mkdir(parents=True, exist_ok=True)
+
+
+def prepare_output_artifacts() -> None:
+    for path in OUTPUT_ARTIFACT_PATHS:
+        path.unlink(missing_ok=True)
 
 
 def resolve_column(frame: pd.DataFrame, candidates: list[str]) -> str | None:
@@ -923,6 +951,7 @@ def save_metadata(
 
 def main() -> None:
     ensure_directories()
+    prepare_output_artifacts()
     print("Starting Task 2 pipeline...")
 
     raw_frame, data_source = load_or_build_dataset()

@@ -4,6 +4,7 @@ services:
     working_dir: /app
     environment:
       KAGGLE_CONFIG_DIR: /root/.kaggle
+      KAGGLE_API_TOKEN: ${KAGGLE_API_TOKEN:-}
     command: python scripts/fetch_task2_datasets.py
     volumes:
       - .:/app

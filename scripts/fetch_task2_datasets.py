@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import os
 import shutil
 import subprocess
 from pathlib import Path
@@ -56,15 +57,25 @@ def ensure_dirs() -> None:
     KAGGLE_CUSTOMER_SUPPORT_DIR.mkdir(parents=True, exist_ok=True)
 
 
+def has_kaggle_auth() -> bool:
+    token = os.getenv("KAGGLE_API_TOKEN", "").strip()
+    if token:
+        return True
+
+    config = Path.home() / ".kaggle" / "kaggle.json"
+    return config.exists()
+
+
 def run_kaggle_download(args: list[str], target_dir: Path) -> None:
     kaggle = shutil.which("kaggle")
     if kaggle is None:
         print("[WARN] kaggle CLI is not installed in this environment.")
         return
 
-    config = Path.home() / ".kaggle" / "kaggle.json"
-    if not config.exists():
-        print("[WARN] ~/.kaggle/kaggle.json not found; skipping Kaggle downloads.")
+    if not has_kaggle_auth():
+        print(
+            "[WARN] Kaggle auth not found. Set KAGGLE_API_TOKEN or provide ~/.kaggle/kaggle.json."
+        )
         return
 
     command = [kaggle, *args, "--path", str(target_dir), "--unzip"]
