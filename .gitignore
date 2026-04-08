@@ -3,6 +3,8 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 .env
+.env.*
+!.env.example
 .venv/
 Classification of IT Support Tickets*
 data/raw/kaggle_it_service_ticket_classification/

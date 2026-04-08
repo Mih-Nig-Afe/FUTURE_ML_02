@@ -2,6 +2,8 @@ services:
   datasets:
     build: .
     working_dir: /app
+    env_file:
+      - .env
     environment:
       KAGGLE_CONFIG_DIR: /root/.kaggle
       KAGGLE_API_TOKEN: ${KAGGLE_API_TOKEN:-}

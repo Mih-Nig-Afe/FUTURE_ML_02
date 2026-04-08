@@ -93,7 +93,14 @@ This Docker dataset flow uses:
 
 Kaggle auth requirement:
 
-- Preferred: export `KAGGLE_API_TOKEN` on the host before running Docker.
+- Recommended one-time setup for persistent local secret:
+
+   ```bash
+   cp .env.example .env
+   # edit .env and set KAGGLE_API_TOKEN=...
+   ```
+
+- Preferred: `KAGGLE_API_TOKEN` in local `.env` before running Docker.
 - Alternative: put your Kaggle API token file at `~/.kaggle/kaggle.json` on the host machine.
 
 3. Launch Jupyter:
