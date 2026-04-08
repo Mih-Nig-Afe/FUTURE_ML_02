@@ -185,6 +185,14 @@ def normalize_category(value: str) -> str:
         "technical issue": "Technical Issue",
         "account": "Account",
         "general query": "General Query",
+        "fileservice": "Technical Issue",
+        "software": "Technical Issue",
+        "computer-services": "Technical Issue",
+        "computer services": "Technical Issue",
+        "o365": "Technical Issue",
+        "eol": "Technical Issue",
+        "active directory": "Account",
+        "support general": "General Query",
     }
     if key in canonical:
         return canonical[key]
@@ -205,6 +213,12 @@ def normalize_category(value: str) -> str:
             "system",
             "server",
             "network",
+            "file",
+            "software",
+            "hardware",
+            "service",
+            "office 365",
+            "o365",
         ]
     ):
         return "Technical Issue"
@@ -218,6 +232,8 @@ def normalize_category(value: str) -> str:
             "auth",
             "credential",
             "user",
+            "directory",
+            "permissions",
         ]
     ):
         return "Account"

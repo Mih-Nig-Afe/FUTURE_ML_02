@@ -1,561 +1,298 @@
 ticket_text,actual_category,actual_priority,predicted_category,predicted_priority
-API endpoint returns a 500 error for valid requests. Need immediate action before end of business today. for our IT service team,Technical Issue,High,Technical Issue,High
-Invoice amount is incorrect for my last subscription renewal. This is informational and not blocking current work. for our customer success unit,Billing,Low,Billing,Low
-API endpoint returns a 500 error for valid requests. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
-User permissions are wrong for our team workspace. We can continue working but this should be fixed quickly. for our enterprise workspace,Account,Medium,Account,Medium
-Notifications are not being delivered to our users. This is urgent and blocking production. for our startup operations,Technical Issue,High,Technical Issue,High
-Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
-Notifications are not being delivered to our users. We can continue working but this should be fixed quickly. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-How do I set up a recurring report for my team? This is informational and not blocking current work. for our startup operations,General Query,Low,General Query,Low
-I cannot connect to the service from our office network. Need immediate action before end of business today. for our support desk,Technical Issue,High,Technical Issue,High
-Payment failed but my bank statement shows the amount deducted. We can continue working but this should be fixed quickly. for our finance team,Billing,Medium,Billing,Medium
-The app crashes whenever I upload a file larger than 10MB. We can continue working but this should be fixed quickly. for our finance team,Technical Issue,Medium,Technical Issue,Medium
-I need to update account ownership and billing contact. Can be handled when the team has capacity. for our startup operations,Account,Low,Account,Low
-Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
-The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our support desk,Technical Issue,High,Technical Issue,High
-Is there a tutorial for using custom dashboards? Can be handled when the team has capacity. for our enterprise workspace,General Query,Low,General Query,Low
-Please help me reset my password for the admin account. This is informational and not blocking current work. for our startup operations,Account,Low,Account,Low
-I need to update account ownership and billing contact. Can be handled when the team has capacity. for our IT service team,Account,Low,Account,Low
-My account was suspended and I need reactivation support. This is impacting workflow and needs attention soon. for our customer success unit,Account,Medium,Account,Medium
-I need to update account ownership and billing contact. Critical issue affecting multiple paying customers. for our support desk,Account,High,Account,High
-Please help me reset my password for the admin account. Can be handled when the team has capacity. for our enterprise workspace,Account,Low,Account,Low
-Invoice amount is incorrect for my last subscription renewal. Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
-Invoice amount is incorrect for my last subscription renewal. Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
-User permissions are wrong for our team workspace. Can be handled when the team has capacity. for our startup operations,Account,Low,Account,Low
-"Can someone share best practices for onboarding new users? No rush, this is a general improvement request. for our IT service team",General Query,Low,General Query,Low
-System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our customer success unit,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. Need immediate action before end of business today. for our finance team,Technical Issue,High,Technical Issue,High
-I cannot connect to the service from our office network. This is urgent and blocking production. for our finance team,Technical Issue,High,Technical Issue,High
-Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our startup operations,Billing,Medium,Billing,Medium
-My account was suspended and I need reactivation support. Requesting timely support to avoid escalation. for our enterprise workspace,Account,Medium,Account,Medium
-Payment failed but my bank statement shows the amount deducted. We can continue working but this should be fixed quickly. for our startup operations,Billing,Medium,Billing,Medium
-"How do I set up a recurring report for my team? No rush, this is a general improvement request. for our finance team",General Query,Low,General Query,Low
-I need to update account ownership and billing contact. We can continue working but this should be fixed quickly. for our enterprise workspace,Account,Medium,Account,Medium
-System reports an error when we try to export reports. Requesting timely support to avoid escalation. for our finance team,Technical Issue,Medium,Technical Issue,Medium
-I was charged twice for my monthly plan and need a refund. Please prioritize immediately because operations are down. for our startup operations,Billing,High,Billing,High
-Payment failed but my bank statement shows the amount deducted. This is informational and not blocking current work. for our IT service team,Billing,Low,Billing,Low
-"Dashboard is extremely slow and times out on login. No rush, this is a general improvement request. for our customer success unit",Technical Issue,Low,Technical Issue,Low
-My account was suspended and I need reactivation support. This is informational and not blocking current work. for our finance team,Account,Low,Account,Low
-The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
-Dashboard is extremely slow and times out on login. Please prioritize immediately because operations are down. for our IT service team,Technical Issue,High,Technical Issue,High
-I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
-Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our IT service team,Billing,Medium,Billing,Medium
-Notifications are not being delivered to our users. Requesting timely support to avoid escalation. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-Payment failed but my bank statement shows the amount deducted. Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
-Please help me reset my password for the admin account. Critical issue affecting multiple paying customers. for our finance team,Account,High,Account,High
-User permissions are wrong for our team workspace. Critical issue affecting multiple paying customers. for our enterprise workspace,Account,High,Account,High
-Payment failed but my bank statement shows the amount deducted. Critical issue affecting multiple paying customers. for our enterprise workspace,Billing,High,Billing,High
-Notifications are not being delivered to our users. Need immediate action before end of business today. for our support desk,Technical Issue,High,Technical Issue,High
-"How do I set up a recurring report for my team? No rush, this is a general improvement request. for our enterprise workspace",General Query,Low,General Query,Low
-Billing portal shows overdue even though I paid yesterday. Please review within the next business day. for our IT service team,Billing,Medium,Billing,Medium
-Invoice amount is incorrect for my last subscription renewal. Can be handled when the team has capacity. for our startup operations,Billing,Low,Billing,Low
-Billing portal shows overdue even though I paid yesterday. This is impacting workflow and needs attention soon. for our finance team,Billing,Medium,Billing,Medium
-"I am locked out after enabling two factor authentication. Low urgency, just looking for guidance. for our customer success unit",Account,Low,Account,Low
-Please help me reset my password for the admin account. Please prioritize immediately because operations are down. for our startup operations,Account,High,Account,High
-"Can you explain this unexpected charge on my account? No rush, this is a general improvement request. for our support desk",Billing,Low,Billing,Low
-Invoice amount is incorrect for my last subscription renewal. We can continue working but this should be fixed quickly. for our startup operations,Billing,Medium,Billing,Medium
-I cannot connect to the service from our office network. Please review within the next business day. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
-API endpoint returns a 500 error for valid requests. Requesting timely support to avoid escalation. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-I cannot connect to the service from our office network. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
-Where can I find documentation for the analytics module? Critical issue affecting multiple paying customers. for our customer success unit,General Query,High,General Query,High
-API endpoint returns a 500 error for valid requests. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
-Can you explain this unexpected charge on my account? Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
-Invoice amount is incorrect for my last subscription renewal. Need immediate action before end of business today. for our IT service team,Billing,High,Billing,High
-"How do I set up a recurring report for my team? No rush, this is a general improvement request. for our customer success unit",General Query,Low,General Query,Low
-Where can I find documentation for the analytics module? Critical issue affecting multiple paying customers. for our IT service team,General Query,High,General Query,High
-Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our customer success unit,Billing,Medium,Billing,Medium
-Dashboard is extremely slow and times out on login. Critical issue affecting multiple paying customers. for our customer success unit,Technical Issue,High,Technical Issue,High
-Payment failed but my bank statement shows the amount deducted. Please review within the next business day. for our customer success unit,Billing,Medium,Billing,Medium
-I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-Notifications are not being delivered to our users. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-I need to update account ownership and billing contact. Requesting timely support to avoid escalation. for our enterprise workspace,Account,Medium,Account,Medium
-Invoice amount is incorrect for my last subscription renewal. This is informational and not blocking current work. for our customer success unit,Billing,Low,Billing,Low
-User permissions are wrong for our team workspace. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
-Notifications are not being delivered to our users. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-I cannot verify my email so onboarding is blocked. We can continue working but this should be fixed quickly. for our finance team,Account,Medium,Account,Medium
-"Billing portal shows overdue even though I paid yesterday. No rush, this is a general improvement request. for our finance team",Billing,Low,Billing,Low
-System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our startup operations,Technical Issue,High,Technical Issue,High
-Notifications are not being delivered to our users. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-I cannot connect to the service from our office network. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
-Do you support integration with third-party CRM tools? This is impacting workflow and needs attention soon. for our customer success unit,General Query,Medium,General Query,Medium
-"I am locked out after enabling two factor authentication. Low urgency, just looking for guidance. for our startup operations",Account,Low,Account,Low
-Is there a tutorial for using custom dashboards? Need immediate action before end of business today. for our support desk,General Query,High,General Query,High
-Can someone share best practices for onboarding new users? We can continue working but this should be fixed quickly. for our finance team,General Query,Medium,General Query,Medium
-Payment failed but my bank statement shows the amount deducted. Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
-"What is included in the business plan compared to basic? Low urgency, just looking for guidance. for our startup operations",General Query,Low,General Query,Low
-System reports an error when we try to export reports. Need immediate action before end of business today. for our IT service team,Technical Issue,High,Technical Issue,High
-API endpoint returns a 500 error for valid requests. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
-Invoice amount is incorrect for my last subscription renewal. Critical issue affecting multiple paying customers. for our enterprise workspace,Billing,High,Billing,High
-I was charged twice for my monthly plan and need a refund. Need immediate action before end of business today. for our enterprise workspace,Billing,High,Billing,High
-Dashboard is extremely slow and times out on login. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. Need immediate action before end of business today. for our support desk,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
-I cannot connect to the service from our office network. This is informational and not blocking current work. for our IT service team,Technical Issue,Low,Technical Issue,Low
-My account was suspended and I need reactivation support. Requesting timely support to avoid escalation. for our finance team,Account,Medium,Account,Medium
-My discount code was not applied to the latest invoice. This is impacting workflow and needs attention soon. for our finance team,Billing,Medium,Billing,Medium
-I was charged twice for my monthly plan and need a refund. This is impacting workflow and needs attention soon. for our IT service team,Billing,Medium,Billing,Medium
-Billing portal shows overdue even though I paid yesterday. Please review within the next business day. for our customer success unit,Billing,Medium,Billing,Medium
-How do I set up a recurring report for my team? Please review within the next business day. for our finance team,General Query,Medium,General Query,Medium
-Please help me reset my password for the admin account. This is urgent and blocking production. for our customer success unit,Account,High,Account,High
-My discount code was not applied to the latest invoice. This is impacting workflow and needs attention soon. for our IT service team,Billing,Medium,Billing,Medium
-Notifications are not being delivered to our users. This is urgent and blocking production. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-The app crashes whenever I upload a file larger than 10MB. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
-Payment failed but my bank statement shows the amount deducted. We can continue working but this should be fixed quickly. for our startup operations,Billing,Medium,Billing,Medium
-Payment failed but my bank statement shows the amount deducted. Need immediate action before end of business today. for our support desk,Billing,High,Billing,High
-I need to update account ownership and billing contact. Can be handled when the team has capacity. for our startup operations,Account,Low,Account,Low
-I cannot connect to the service from our office network. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
-I cannot verify my email so onboarding is blocked. Requesting timely support to avoid escalation. for our support desk,Account,Medium,Account,Medium
-My account was suspended and I need reactivation support. Please prioritize immediately because operations are down. for our support desk,Account,High,Account,High
-I was charged twice for my monthly plan and need a refund. Please review within the next business day. for our startup operations,Billing,Medium,Billing,Medium
-I am locked out after enabling two factor authentication. Please review within the next business day. for our support desk,Account,Medium,Account,Medium
-Can someone share best practices for onboarding new users? This is impacting workflow and needs attention soon. for our support desk,General Query,Medium,General Query,Medium
-I am locked out after enabling two factor authentication. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
-I was charged twice for my monthly plan and need a refund. We can continue working but this should be fixed quickly. for our enterprise workspace,Billing,Medium,Billing,Medium
-Please help me reset my password for the admin account. Can be handled when the team has capacity. for our customer success unit,Account,Low,Account,Low
-I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
-Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our finance team,Billing,Medium,Billing,Medium
-Invoice amount is incorrect for my last subscription renewal. This is urgent and blocking production. for our support desk,Billing,High,Billing,High
-The app crashes whenever I upload a file larger than 10MB. Requesting timely support to avoid escalation. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
-The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
-Can you explain this unexpected charge on my account? Please review within the next business day. for our finance team,Billing,Medium,Billing,Medium
-I need to update account ownership and billing contact. This is urgent and blocking production. for our startup operations,Account,High,Account,High
-Can you explain this unexpected charge on my account? Please prioritize immediately because operations are down. for our enterprise workspace,Billing,High,Billing,High
-System reports an error when we try to export reports. Need immediate action before end of business today. for our startup operations,Technical Issue,High,Technical Issue,High
-How do I set up a recurring report for my team? Please prioritize immediately because operations are down. for our enterprise workspace,General Query,High,General Query,High
-Dashboard is extremely slow and times out on login. This is informational and not blocking current work. for our enterprise workspace,Technical Issue,Low,Technical Issue,Low
-Can someone share best practices for onboarding new users? Please review within the next business day. for our startup operations,General Query,Medium,General Query,Medium
-Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
-System reports an error when we try to export reports. Requesting timely support to avoid escalation. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
-Is there a tutorial for using custom dashboards? This is impacting workflow and needs attention soon. for our support desk,General Query,Medium,General Query,Medium
-The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our finance team,Technical Issue,High,Technical Issue,High
-Invoice amount is incorrect for my last subscription renewal. This is informational and not blocking current work. for our customer success unit,Billing,Low,Billing,Low
-"My discount code was not applied to the latest invoice. No rush, this is a general improvement request. for our finance team",Billing,Low,Billing,Low
-Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our IT service team,Account,Medium,Account,Medium
-My account was suspended and I need reactivation support. We can continue working but this should be fixed quickly. for our enterprise workspace,Account,Medium,Account,Medium
-"I need to update account ownership and billing contact. No rush, this is a general improvement request. for our startup operations",Account,Low,Account,Low
-Notifications are not being delivered to our users. We can continue working but this should be fixed quickly. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-I need to update account ownership and billing contact. Requesting timely support to avoid escalation. for our customer success unit,Account,Medium,Account,Medium
-Billing portal shows overdue even though I paid yesterday. This is urgent and blocking production. for our startup operations,Billing,High,Billing,High
-I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
-User permissions are wrong for our team workspace. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
-System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our startup operations,Billing,Medium,Billing,Medium
-My account was suspended and I need reactivation support. Please prioritize immediately because operations are down. for our IT service team,Account,High,Account,High
-I cannot connect to the service from our office network. Please prioritize immediately because operations are down. for our customer success unit,Technical Issue,High,Technical Issue,High
-Notifications are not being delivered to our users. Please review within the next business day. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-Dashboard is extremely slow and times out on login. Critical issue affecting multiple paying customers. for our support desk,Technical Issue,High,Technical Issue,High
-My account was suspended and I need reactivation support. Need immediate action before end of business today. for our finance team,Account,High,Account,High
-Is there a tutorial for using custom dashboards? We can continue working but this should be fixed quickly. for our startup operations,General Query,Medium,General Query,Medium
-Can someone share best practices for onboarding new users? Can be handled when the team has capacity. for our finance team,General Query,Low,General Query,Low
-Dashboard is extremely slow and times out on login. This is urgent and blocking production. for our customer success unit,Technical Issue,High,Technical Issue,High
-Invoice amount is incorrect for my last subscription renewal. Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
-Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our support desk,Billing,Medium,Billing,Medium
-API endpoint returns a 500 error for valid requests. Please prioritize immediately because operations are down. for our finance team,Technical Issue,High,Technical Issue,High
-I was charged twice for my monthly plan and need a refund. We can continue working but this should be fixed quickly. for our customer success unit,Billing,Medium,Billing,Medium
-Dashboard is extremely slow and times out on login. This is urgent and blocking production. for our finance team,Technical Issue,High,Technical Issue,High
-I am locked out after enabling two factor authentication. This is informational and not blocking current work. for our customer success unit,Account,Low,Account,Low
-Can someone share best practices for onboarding new users? We can continue working but this should be fixed quickly. for our enterprise workspace,General Query,Medium,General Query,Medium
-Can you explain this unexpected charge on my account? We can continue working but this should be fixed quickly. for our IT service team,Billing,Medium,Billing,Medium
-System reports an error when we try to export reports. We can continue working but this should be fixed quickly. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
-Dashboard is extremely slow and times out on login. We can continue working but this should be fixed quickly. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
-API endpoint returns a 500 error for valid requests. Please review within the next business day. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-Dashboard is extremely slow and times out on login. Need immediate action before end of business today. for our support desk,Technical Issue,High,Technical Issue,High
-My account was suspended and I need reactivation support. Requesting timely support to avoid escalation. for our finance team,Account,Medium,Account,Medium
-User permissions are wrong for our team workspace. We can continue working but this should be fixed quickly. for our IT service team,Account,Medium,Account,Medium
-The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
-Notifications are not being delivered to our users. Need immediate action before end of business today. for our IT service team,Technical Issue,High,Technical Issue,High
-I am locked out after enabling two factor authentication. Need immediate action before end of business today. for our startup operations,Account,High,Account,High
-Do you support integration with third-party CRM tools? Please review within the next business day. for our support desk,General Query,Medium,General Query,Medium
-Dashboard is extremely slow and times out on login. Can be handled when the team has capacity. for our IT service team,Technical Issue,Low,Technical Issue,Low
-The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. Need immediate action before end of business today. for our startup operations,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
-"Is there a tutorial for using custom dashboards? Low urgency, just looking for guidance. for our support desk",General Query,Low,General Query,Low
-I was charged twice for my monthly plan and need a refund. Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
-API endpoint returns a 500 error for valid requests. Please prioritize immediately because operations are down. for our support desk,Technical Issue,High,Technical Issue,High
-Payment failed but my bank statement shows the amount deducted. Please review within the next business day. for our support desk,Billing,Medium,Billing,Medium
-"Please help me reset my password for the admin account. No rush, this is a general improvement request. for our support desk",Account,Low,Account,Low
-Invoice amount is incorrect for my last subscription renewal. Please prioritize immediately because operations are down. for our startup operations,Billing,High,Billing,High
-Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our support desk,Billing,Medium,Billing,Medium
-Is there a tutorial for using custom dashboards? Requesting timely support to avoid escalation. for our IT service team,General Query,Medium,General Query,Medium
-My account was suspended and I need reactivation support. This is urgent and blocking production. for our enterprise workspace,Account,High,Account,High
-My discount code was not applied to the latest invoice. Can be handled when the team has capacity. for our enterprise workspace,Billing,Low,Billing,Low
-Invoice amount is incorrect for my last subscription renewal. Requesting timely support to avoid escalation. for our customer success unit,Billing,Medium,Billing,Medium
-User permissions are wrong for our team workspace. Can be handled when the team has capacity. for our IT service team,Account,Low,Account,Low
-Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our finance team,Account,Medium,Account,Medium
-Invoice amount is incorrect for my last subscription renewal. Please review within the next business day. for our enterprise workspace,Billing,Medium,Billing,Medium
-Notifications are not being delivered to our users. We can continue working but this should be fixed quickly. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
-How do I set up a recurring report for my team? Can be handled when the team has capacity. for our enterprise workspace,General Query,Low,General Query,Low
-I need to update account ownership and billing contact. Please prioritize immediately because operations are down. for our customer success unit,Account,High,Account,High
-API endpoint returns a 500 error for valid requests. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
-Notifications are not being delivered to our users. This is impacting workflow and needs attention soon. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-How do I set up a recurring report for my team? Critical issue affecting multiple paying customers. for our IT service team,General Query,High,General Query,High
-"I am locked out after enabling two factor authentication. No rush, this is a general improvement request. for our customer success unit",Account,Low,Account,Low
-"Please help me reset my password for the admin account. Low urgency, just looking for guidance. for our enterprise workspace",Account,Low,Account,Low
-Notifications are not being delivered to our users. Critical issue affecting multiple paying customers. for our customer success unit,Technical Issue,High,Technical Issue,High
-How do I set up a recurring report for my team? Can be handled when the team has capacity. for our enterprise workspace,General Query,Low,General Query,Low
-Dashboard is extremely slow and times out on login. This is urgent and blocking production. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-API endpoint returns a 500 error for valid requests. Please prioritize immediately because operations are down. for our finance team,Technical Issue,High,Technical Issue,High
-I was charged twice for my monthly plan and need a refund. Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
-Notifications are not being delivered to our users. Please prioritize immediately because operations are down. for our finance team,Technical Issue,High,Technical Issue,High
-"Can you explain this unexpected charge on my account? No rush, this is a general improvement request. for our IT service team",Billing,Low,Billing,Low
-"I need to update account ownership and billing contact. No rush, this is a general improvement request. for our customer success unit",Account,Low,Account,Low
-I cannot verify my email so onboarding is blocked. This is informational and not blocking current work. for our support desk,Account,Low,Account,Low
-Notifications are not being delivered to our users. Please review within the next business day. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
-My discount code was not applied to the latest invoice. Please review within the next business day. for our IT service team,Billing,Medium,Billing,Medium
-I am locked out after enabling two factor authentication. We can continue working but this should be fixed quickly. for our support desk,Account,Medium,Account,Medium
-I cannot verify my email so onboarding is blocked. Requesting timely support to avoid escalation. for our startup operations,Account,Medium,Account,Medium
-My discount code was not applied to the latest invoice. Please review within the next business day. for our startup operations,Billing,Medium,Billing,Medium
-"Is there a tutorial for using custom dashboards? Low urgency, just looking for guidance. for our startup operations",General Query,Low,General Query,Low
-"Where can I find documentation for the analytics module? No rush, this is a general improvement request. for our enterprise workspace",General Query,Low,General Query,Low
-Payment failed but my bank statement shows the amount deducted. This is impacting workflow and needs attention soon. for our finance team,Billing,Medium,Billing,Medium
-"Do you support integration with third-party CRM tools? No rush, this is a general improvement request. for our enterprise workspace",General Query,Low,General Query,Low
-"I was charged twice for my monthly plan and need a refund. Low urgency, just looking for guidance. for our startup operations",Billing,Low,Billing,Low
-I cannot connect to the service from our office network. Please review within the next business day. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-I was charged twice for my monthly plan and need a refund. Please review within the next business day. for our startup operations,Billing,Medium,Billing,Medium
-"Billing portal shows overdue even though I paid yesterday. Low urgency, just looking for guidance. for our finance team",Billing,Low,Billing,Low
-Billing portal shows overdue even though I paid yesterday. Please prioritize immediately because operations are down. for our startup operations,Billing,High,Billing,High
-I cannot connect to the service from our office network. Need immediate action before end of business today. for our startup operations,Technical Issue,High,Technical Issue,High
-Is there a tutorial for using custom dashboards? Can be handled when the team has capacity. for our finance team,General Query,Low,General Query,Low
-My discount code was not applied to the latest invoice. Requesting timely support to avoid escalation. for our customer success unit,Billing,Medium,Billing,Medium
-I was charged twice for my monthly plan and need a refund. Requesting timely support to avoid escalation. for our support desk,Billing,Medium,Billing,Medium
-My account was suspended and I need reactivation support. Please prioritize immediately because operations are down. for our finance team,Account,High,Account,High
-Is there a tutorial for using custom dashboards? We can continue working but this should be fixed quickly. for our finance team,General Query,Medium,General Query,Medium
-Please help me reset my password for the admin account. Please review within the next business day. for our IT service team,Account,Medium,Account,Medium
-Payment failed but my bank statement shows the amount deducted. Requesting timely support to avoid escalation. for our startup operations,Billing,Medium,Billing,Medium
-Can you explain this unexpected charge on my account? Critical issue affecting multiple paying customers. for our IT service team,Billing,High,Billing,High
-System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our support desk,Technical Issue,High,Technical Issue,High
-I cannot connect to the service from our office network. This is informational and not blocking current work. for our startup operations,Technical Issue,Low,Technical Issue,Low
-My discount code was not applied to the latest invoice. This is impacting workflow and needs attention soon. for our enterprise workspace,Billing,Medium,Billing,Medium
-"User permissions are wrong for our team workspace. No rush, this is a general improvement request. for our startup operations",Account,Low,Account,Low
-My discount code was not applied to the latest invoice. Can be handled when the team has capacity. for our customer success unit,Billing,Low,Billing,Low
-Is there a tutorial for using custom dashboards? Requesting timely support to avoid escalation. for our finance team,General Query,Medium,General Query,Medium
-The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our IT service team,Technical Issue,High,Technical Issue,High
-Please help me reset my password for the admin account. Critical issue affecting multiple paying customers. for our customer success unit,Account,High,Account,High
-What is included in the business plan compared to basic? Can be handled when the team has capacity. for our startup operations,General Query,Low,General Query,Low
-API endpoint returns a 500 error for valid requests. Requesting timely support to avoid escalation. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
-User permissions are wrong for our team workspace. Please review within the next business day. for our enterprise workspace,Account,Medium,Account,Medium
-I was charged twice for my monthly plan and need a refund. Need immediate action before end of business today. for our IT service team,Billing,High,Billing,High
-The app crashes whenever I upload a file larger than 10MB. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-I was charged twice for my monthly plan and need a refund. Critical issue affecting multiple paying customers. for our customer success unit,Billing,High,Billing,High
-I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our finance team,Technical Issue,Medium,Technical Issue,Medium
-User permissions are wrong for our team workspace. We can continue working but this should be fixed quickly. for our finance team,Account,Medium,Account,Medium
-User permissions are wrong for our team workspace. This is urgent and blocking production. for our enterprise workspace,Account,High,Account,High
-Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
-Notifications are not being delivered to our users. This is urgent and blocking production. for our customer success unit,Technical Issue,High,Technical Issue,High
-I am locked out after enabling two factor authentication. This is informational and not blocking current work. for our startup operations,Account,Low,Account,Low
-Can someone share best practices for onboarding new users? This is informational and not blocking current work. for our startup operations,General Query,Low,General Query,Low
-"Billing portal shows overdue even though I paid yesterday. Low urgency, just looking for guidance. for our customer success unit",Billing,Low,Billing,Low
-Dashboard is extremely slow and times out on login. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
-I need to update account ownership and billing contact. This is impacting workflow and needs attention soon. for our support desk,Account,Medium,Account,Medium
-Notifications are not being delivered to our users. This is impacting workflow and needs attention soon. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-Do you support integration with third-party CRM tools? Need immediate action before end of business today. for our IT service team,General Query,High,General Query,High
-I was charged twice for my monthly plan and need a refund. Please prioritize immediately because operations are down. for our support desk,Billing,High,Billing,High
-I cannot connect to the service from our office network. Please review within the next business day. for our finance team,Technical Issue,Medium,Technical Issue,Medium
-How do I set up a recurring report for my team? Can be handled when the team has capacity. for our IT service team,General Query,Low,General Query,Low
-Can someone share best practices for onboarding new users? Can be handled when the team has capacity. for our IT service team,General Query,Low,General Query,Low
-"How do I set up a recurring report for my team? Low urgency, just looking for guidance. for our startup operations",General Query,Low,General Query,Low
-I was charged twice for my monthly plan and need a refund. Can be handled when the team has capacity. for our support desk,Billing,Low,Billing,Low
-Dashboard is extremely slow and times out on login. Requesting timely support to avoid escalation. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
-Can you explain this unexpected charge on my account? Can be handled when the team has capacity. for our finance team,Billing,Low,Billing,Low
-Can someone share best practices for onboarding new users? This is urgent and blocking production. for our IT service team,General Query,High,General Query,High
-API endpoint returns a 500 error for valid requests. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
-User permissions are wrong for our team workspace. Can be handled when the team has capacity. for our startup operations,Account,Low,Account,Low
-I need to update account ownership and billing contact. This is informational and not blocking current work. for our IT service team,Account,Low,Account,Low
-Notifications are not being delivered to our users. This is impacting workflow and needs attention soon. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-"Billing portal shows overdue even though I paid yesterday. No rush, this is a general improvement request. for our enterprise workspace",Billing,Low,Billing,Low
-Please help me reset my password for the admin account. This is impacting workflow and needs attention soon. for our finance team,Account,Medium,Account,Medium
-"Do you support integration with third-party CRM tools? Low urgency, just looking for guidance. for our finance team",General Query,Low,General Query,Low
-I need to update account ownership and billing contact. Can be handled when the team has capacity. for our IT service team,Account,Low,Account,Low
-"Notifications are not being delivered to our users. Low urgency, just looking for guidance. for our enterprise workspace",Technical Issue,Low,Technical Issue,Low
-API endpoint returns a 500 error for valid requests. We can continue working but this should be fixed quickly. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-I cannot verify my email so onboarding is blocked. This is urgent and blocking production. for our support desk,Account,High,Account,High
-Notifications are not being delivered to our users. We can continue working but this should be fixed quickly. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-Notifications are not being delivered to our users. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
-Can someone share best practices for onboarding new users? Can be handled when the team has capacity. for our IT service team,General Query,Low,General Query,Low
-"Where can I find documentation for the analytics module? No rush, this is a general improvement request. for our support desk",General Query,Low,General Query,Low
-How do I set up a recurring report for my team? This is impacting workflow and needs attention soon. for our support desk,General Query,Medium,General Query,Medium
-Invoice amount is incorrect for my last subscription renewal. We can continue working but this should be fixed quickly. for our IT service team,Billing,Medium,Billing,Medium
-Is there a tutorial for using custom dashboards? Critical issue affecting multiple paying customers. for our customer success unit,General Query,High,General Query,High
-Where can I find documentation for the analytics module? Requesting timely support to avoid escalation. for our startup operations,General Query,Medium,General Query,Medium
-I was charged twice for my monthly plan and need a refund. Please review within the next business day. for our IT service team,Billing,Medium,Billing,Medium
-I am locked out after enabling two factor authentication. Please review within the next business day. for our IT service team,Account,Medium,Account,Medium
-Do you support integration with third-party CRM tools? Please review within the next business day. for our startup operations,General Query,Medium,General Query,Medium
-Please help me reset my password for the admin account. Need immediate action before end of business today. for our customer success unit,Account,High,Account,High
-Payment failed but my bank statement shows the amount deducted. Please prioritize immediately because operations are down. for our IT service team,Billing,High,Billing,High
-Dashboard is extremely slow and times out on login. This is impacting workflow and needs attention soon. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-What is included in the business plan compared to basic? Can be handled when the team has capacity. for our customer success unit,General Query,Low,General Query,Low
-System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-I cannot verify my email so onboarding is blocked. Need immediate action before end of business today. for our support desk,Account,High,Account,High
-Do you support integration with third-party CRM tools? Need immediate action before end of business today. for our startup operations,General Query,High,General Query,High
-Can you explain this unexpected charge on my account? Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
-Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
-System reports an error when we try to export reports. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
-Notifications are not being delivered to our users. This is urgent and blocking production. for our startup operations,Technical Issue,High,Technical Issue,High
-"The app crashes whenever I upload a file larger than 10MB. No rush, this is a general improvement request. for our IT service team",Technical Issue,Low,Technical Issue,Low
-Dashboard is extremely slow and times out on login. Need immediate action before end of business today. for our IT service team,Technical Issue,High,Technical Issue,High
-I was charged twice for my monthly plan and need a refund. Critical issue affecting multiple paying customers. for our finance team,Billing,High,Billing,High
-Please help me reset my password for the admin account. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
-I cannot connect to the service from our office network. This is urgent and blocking production. for our finance team,Technical Issue,High,Technical Issue,High
-Payment failed but my bank statement shows the amount deducted. Please review within the next business day. for our support desk,Billing,Medium,Billing,Medium
-User permissions are wrong for our team workspace. Please prioritize immediately because operations are down. for our IT service team,Account,High,Account,High
-Can someone share best practices for onboarding new users? Can be handled when the team has capacity. for our IT service team,General Query,Low,General Query,Low
-I was charged twice for my monthly plan and need a refund. This is impacting workflow and needs attention soon. for our enterprise workspace,Billing,Medium,Billing,Medium
-My discount code was not applied to the latest invoice. Need immediate action before end of business today. for our finance team,Billing,High,Billing,High
-API endpoint returns a 500 error for valid requests. We can continue working but this should be fixed quickly. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
-I am locked out after enabling two factor authentication. Can be handled when the team has capacity. for our enterprise workspace,Account,Low,Account,Low
-I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. Requesting timely support to avoid escalation. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
-"I am locked out after enabling two factor authentication. No rush, this is a general improvement request. for our support desk",Account,Low,Account,Low
-I cannot connect to the service from our office network. We can continue working but this should be fixed quickly. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-"Please help me reset my password for the admin account. No rush, this is a general improvement request. for our enterprise workspace",Account,Low,Account,Low
-I was charged twice for my monthly plan and need a refund. This is impacting workflow and needs attention soon. for our IT service team,Billing,Medium,Billing,Medium
-Please help me reset my password for the admin account. Please review within the next business day. for our IT service team,Account,Medium,Account,Medium
-I was charged twice for my monthly plan and need a refund. Please prioritize immediately because operations are down. for our customer success unit,Billing,High,Billing,High
-Invoice amount is incorrect for my last subscription renewal. Please review within the next business day. for our enterprise workspace,Billing,Medium,Billing,Medium
-Payment failed but my bank statement shows the amount deducted. Can be handled when the team has capacity. for our customer success unit,Billing,Low,Billing,Low
-Invoice amount is incorrect for my last subscription renewal. Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
-System reports an error when we try to export reports. Can be handled when the team has capacity. for our support desk,Technical Issue,Low,Technical Issue,Low
-I am locked out after enabling two factor authentication. This is informational and not blocking current work. for our finance team,Account,Low,Account,Low
-Please help me reset my password for the admin account. This is informational and not blocking current work. for our customer success unit,Account,Low,Account,Low
-API endpoint returns a 500 error for valid requests. Please review within the next business day. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-Payment failed but my bank statement shows the amount deducted. Critical issue affecting multiple paying customers. for our startup operations,Billing,High,Billing,High
-Dashboard is extremely slow and times out on login. Please prioritize immediately because operations are down. for our customer success unit,Technical Issue,High,Technical Issue,High
-I cannot verify my email so onboarding is blocked. Please prioritize immediately because operations are down. for our support desk,Account,High,Account,High
-Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our customer success unit,Account,Medium,Account,Medium
-I cannot connect to the service from our office network. Please prioritize immediately because operations are down. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. This is urgent and blocking production. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our finance team,Technical Issue,Medium,Technical Issue,Medium
-API endpoint returns a 500 error for valid requests. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-Billing portal shows overdue even though I paid yesterday. Requesting timely support to avoid escalation. for our enterprise workspace,Billing,Medium,Billing,Medium
-I am locked out after enabling two factor authentication. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
-Notifications are not being delivered to our users. Critical issue affecting multiple paying customers. for our IT service team,Technical Issue,High,Technical Issue,High
-Invoice amount is incorrect for my last subscription renewal. Need immediate action before end of business today. for our startup operations,Billing,High,Billing,High
-I was charged twice for my monthly plan and need a refund. Can be handled when the team has capacity. for our support desk,Billing,Low,Billing,Low
-Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our IT service team,Account,Medium,Account,Medium
-Can someone share best practices for onboarding new users? This is urgent and blocking production. for our support desk,General Query,High,General Query,High
-Please help me reset my password for the admin account. This is urgent and blocking production. for our support desk,Account,High,Account,High
-Invoice amount is incorrect for my last subscription renewal. Please review within the next business day. for our finance team,Billing,Medium,Billing,Medium
-I need to update account ownership and billing contact. Requesting timely support to avoid escalation. for our enterprise workspace,Account,Medium,Account,Medium
-Do you support integration with third-party CRM tools? We can continue working but this should be fixed quickly. for our enterprise workspace,General Query,Medium,General Query,Medium
-System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
-"Payment failed but my bank statement shows the amount deducted. Low urgency, just looking for guidance. for our finance team",Billing,Low,Billing,Low
-I cannot verify my email so onboarding is blocked. Please prioritize immediately because operations are down. for our support desk,Account,High,Account,High
-I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our customer success unit,Technical Issue,High,Technical Issue,High
-"Invoice amount is incorrect for my last subscription renewal. No rush, this is a general improvement request. for our finance team",Billing,Low,Billing,Low
-"Where can I find documentation for the analytics module? No rush, this is a general improvement request. for our enterprise workspace",General Query,Low,General Query,Low
-"Can someone share best practices for onboarding new users? Low urgency, just looking for guidance. for our finance team",General Query,Low,General Query,Low
-Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our customer success unit,Account,Medium,Account,Medium
-My account was suspended and I need reactivation support. Please prioritize immediately because operations are down. for our support desk,Account,High,Account,High
-"Can someone share best practices for onboarding new users? Low urgency, just looking for guidance. for our finance team",General Query,Low,General Query,Low
-System reports an error when we try to export reports. Requesting timely support to avoid escalation. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
-Dashboard is extremely slow and times out on login. We can continue working but this should be fixed quickly. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-The app crashes whenever I upload a file larger than 10MB. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
-API endpoint returns a 500 error for valid requests. Please review within the next business day. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-"I cannot verify my email so onboarding is blocked. No rush, this is a general improvement request. for our startup operations",Account,Low,Account,Low
-My discount code was not applied to the latest invoice. This is urgent and blocking production. for our support desk,Billing,High,Billing,High
-Notifications are not being delivered to our users. This is urgent and blocking production. for our customer success unit,Technical Issue,High,Technical Issue,High
-Notifications are not being delivered to our users. This is urgent and blocking production. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-What is included in the business plan compared to basic? We can continue working but this should be fixed quickly. for our IT service team,General Query,Medium,General Query,Medium
-Can you explain this unexpected charge on my account? Can be handled when the team has capacity. for our finance team,Billing,Low,Billing,Low
-Payment failed but my bank statement shows the amount deducted. We can continue working but this should be fixed quickly. for our customer success unit,Billing,Medium,Billing,Medium
-My account was suspended and I need reactivation support. This is informational and not blocking current work. for our IT service team,Account,Low,Account,Low
-API endpoint returns a 500 error for valid requests. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
-Invoice amount is incorrect for my last subscription renewal. This is urgent and blocking production. for our enterprise workspace,Billing,High,Billing,High
-Notifications are not being delivered to our users. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
-I cannot connect to the service from our office network. Please prioritize immediately because operations are down. for our finance team,Technical Issue,High,Technical Issue,High
-I cannot connect to the service from our office network. Requesting timely support to avoid escalation. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-Dashboard is extremely slow and times out on login. Requesting timely support to avoid escalation. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-User permissions are wrong for our team workspace. Please review within the next business day. for our finance team,Account,Medium,Account,Medium
-User permissions are wrong for our team workspace. Requesting timely support to avoid escalation. for our customer success unit,Account,Medium,Account,Medium
-"What is included in the business plan compared to basic? No rush, this is a general improvement request. for our finance team",General Query,Low,General Query,Low
-I cannot connect to the service from our office network. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-I am locked out after enabling two factor authentication. Requesting timely support to avoid escalation. for our finance team,Account,Medium,Account,Medium
-Is there a tutorial for using custom dashboards? This is informational and not blocking current work. for our finance team,General Query,Low,General Query,Low
-The app crashes whenever I upload a file larger than 10MB. This is impacting workflow and needs attention soon. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
-User permissions are wrong for our team workspace. Please review within the next business day. for our support desk,Account,Medium,Account,Medium
-API endpoint returns a 500 error for valid requests. We can continue working but this should be fixed quickly. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
-I cannot connect to the service from our office network. Please review within the next business day. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
-Billing portal shows overdue even though I paid yesterday. Critical issue affecting multiple paying customers. for our enterprise workspace,Billing,High,Billing,High
-I cannot connect to the service from our office network. We can continue working but this should be fixed quickly. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
-Is there a tutorial for using custom dashboards? This is informational and not blocking current work. for our finance team,General Query,Low,General Query,Low
-Can someone share best practices for onboarding new users? This is urgent and blocking production. for our finance team,General Query,High,General Query,High
-Dashboard is extremely slow and times out on login. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
-API endpoint returns a 500 error for valid requests. This is impacting workflow and needs attention soon. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-Invoice amount is incorrect for my last subscription renewal. Requesting timely support to avoid escalation. for our startup operations,Billing,Medium,Billing,Medium
-"Where can I find documentation for the analytics module? Low urgency, just looking for guidance. for our finance team",General Query,Low,General Query,Low
-System reports an error when we try to export reports. This is urgent and blocking production. for our customer success unit,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. We can continue working but this should be fixed quickly. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
-"I need to update account ownership and billing contact. No rush, this is a general improvement request. for our support desk",Account,Low,Account,Low
-System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our IT service team,Technical Issue,High,Technical Issue,High
-Notifications are not being delivered to our users. Requesting timely support to avoid escalation. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
-Notifications are not being delivered to our users. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
-API endpoint returns a 500 error for valid requests. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
-Payment failed but my bank statement shows the amount deducted. Please prioritize immediately because operations are down. for our finance team,Billing,High,Billing,High
-I am locked out after enabling two factor authentication. Please prioritize immediately because operations are down. for our customer success unit,Account,High,Account,High
-I cannot verify my email so onboarding is blocked. This is impacting workflow and needs attention soon. for our support desk,Account,Medium,Account,Medium
-Payment failed but my bank statement shows the amount deducted. We can continue working but this should be fixed quickly. for our startup operations,Billing,Medium,Billing,Medium
-My discount code was not applied to the latest invoice. This is informational and not blocking current work. for our IT service team,Billing,Low,Billing,Low
-API endpoint returns a 500 error for valid requests. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
-My discount code was not applied to the latest invoice. This is impacting workflow and needs attention soon. for our enterprise workspace,Billing,Medium,Billing,Medium
-Invoice amount is incorrect for my last subscription renewal. Please review within the next business day. for our startup operations,Billing,Medium,Billing,Medium
-"Please help me reset my password for the admin account. Low urgency, just looking for guidance. for our IT service team",Account,Low,Account,Low
-Payment failed but my bank statement shows the amount deducted. Please review within the next business day. for our IT service team,Billing,Medium,Billing,Medium
-"Notifications are not being delivered to our users. No rush, this is a general improvement request. for our enterprise workspace",Technical Issue,Low,Technical Issue,Low
-Can someone share best practices for onboarding new users? Can be handled when the team has capacity. for our support desk,General Query,Low,General Query,Low
-"How do I set up a recurring report for my team? Low urgency, just looking for guidance. for our IT service team",General Query,Low,General Query,Low
-Payment failed but my bank statement shows the amount deducted. This is informational and not blocking current work. for our support desk,Billing,Low,Billing,Low
-Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
-The app crashes whenever I upload a file larger than 10MB. Please review within the next business day. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-API endpoint returns a 500 error for valid requests. Please review within the next business day. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
-I was charged twice for my monthly plan and need a refund. Requesting timely support to avoid escalation. for our customer success unit,Billing,Medium,Billing,Medium
-The app crashes whenever I upload a file larger than 10MB. This is impacting workflow and needs attention soon. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-Payment failed but my bank statement shows the amount deducted. Requesting timely support to avoid escalation. for our startup operations,Billing,Medium,Billing,Medium
-Can you explain this unexpected charge on my account? Can be handled when the team has capacity. for our enterprise workspace,Billing,Low,Billing,Low
-"Please help me reset my password for the admin account. Low urgency, just looking for guidance. for our support desk",Account,Low,Account,Low
-Do you support integration with third-party CRM tools? We can continue working but this should be fixed quickly. for our IT service team,General Query,Medium,General Query,Medium
-"Billing portal shows overdue even though I paid yesterday. No rush, this is a general improvement request. for our customer success unit",Billing,Low,Billing,Low
-I cannot verify my email so onboarding is blocked. Can be handled when the team has capacity. for our IT service team,Account,Low,Account,Low
-My discount code was not applied to the latest invoice. This is impacting workflow and needs attention soon. for our finance team,Billing,Medium,Billing,Medium
-Where can I find documentation for the analytics module? Please review within the next business day. for our IT service team,General Query,Medium,General Query,Medium
-"Billing portal shows overdue even though I paid yesterday. No rush, this is a general improvement request. for our enterprise workspace",Billing,Low,Billing,Low
-"I need to update account ownership and billing contact. Low urgency, just looking for guidance. for our enterprise workspace",Account,Low,Account,Low
-Dashboard is extremely slow and times out on login. This is impacting workflow and needs attention soon. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
-API endpoint returns a 500 error for valid requests. Requesting timely support to avoid escalation. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-"What is included in the business plan compared to basic? No rush, this is a general improvement request. for our startup operations",General Query,Low,General Query,Low
-I am locked out after enabling two factor authentication. Please review within the next business day. for our customer success unit,Account,Medium,Account,Medium
-"I cannot verify my email so onboarding is blocked. No rush, this is a general improvement request. for our IT service team",Account,Low,Account,Low
-Notifications are not being delivered to our users. Please prioritize immediately because operations are down. for our customer success unit,Technical Issue,High,Technical Issue,High
-"My discount code was not applied to the latest invoice. Low urgency, just looking for guidance. for our support desk",Billing,Low,Billing,Low
-"Please help me reset my password for the admin account. Low urgency, just looking for guidance. for our support desk",Account,Low,Account,Low
-"Is there a tutorial for using custom dashboards? Low urgency, just looking for guidance. for our customer success unit",General Query,Low,General Query,Low
-My account was suspended and I need reactivation support. Requesting timely support to avoid escalation. for our customer success unit,Account,Medium,Account,Medium
-System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our IT service team,Technical Issue,High,Technical Issue,High
-"Can you explain this unexpected charge on my account? No rush, this is a general improvement request. for our customer success unit",Billing,Low,Billing,Low
-I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
-What is included in the business plan compared to basic? We can continue working but this should be fixed quickly. for our IT service team,General Query,Medium,General Query,Medium
-I cannot verify my email so onboarding is blocked. This is impacting workflow and needs attention soon. for our support desk,Account,Medium,Account,Medium
-I cannot connect to the service from our office network. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
-The app crashes whenever I upload a file larger than 10MB. Please review within the next business day. for our finance team,Technical Issue,Medium,Technical Issue,Medium
-The app crashes whenever I upload a file larger than 10MB. Can be handled when the team has capacity. for our finance team,Technical Issue,Low,Technical Issue,Low
-Can you explain this unexpected charge on my account? We can continue working but this should be fixed quickly. for our finance team,Billing,Medium,Billing,Medium
-The app crashes whenever I upload a file larger than 10MB. Need immediate action before end of business today. for our support desk,Technical Issue,High,Technical Issue,High
-"I cannot connect to the service from our office network. No rush, this is a general improvement request. for our support desk",Technical Issue,Low,Technical Issue,Low
-The app crashes whenever I upload a file larger than 10MB. Need immediate action before end of business today. for our finance team,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. Critical issue affecting multiple paying customers. for our finance team,Technical Issue,High,Technical Issue,High
-"I was charged twice for my monthly plan and need a refund. No rush, this is a general improvement request. for our support desk",Billing,Low,Billing,Low
-Dashboard is extremely slow and times out on login. This is impacting workflow and needs attention soon. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
-I cannot verify my email so onboarding is blocked. Please prioritize immediately because operations are down. for our customer success unit,Account,High,Account,High
-Do you support integration with third-party CRM tools? Please prioritize immediately because operations are down. for our IT service team,General Query,High,General Query,High
-"How do I set up a recurring report for my team? No rush, this is a general improvement request. for our customer success unit",General Query,Low,General Query,Low
-Payment failed but my bank statement shows the amount deducted. Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
-I cannot connect to the service from our office network. Please review within the next business day. for our finance team,Technical Issue,Medium,Technical Issue,Medium
-System reports an error when we try to export reports. This is urgent and blocking production. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-What is included in the business plan compared to basic? Can be handled when the team has capacity. for our IT service team,General Query,Low,General Query,Low
-The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our support desk,Technical Issue,High,Technical Issue,High
-Where can I find documentation for the analytics module? Requesting timely support to avoid escalation. for our customer success unit,General Query,Medium,General Query,Medium
-"System reports an error when we try to export reports. Low urgency, just looking for guidance. for our customer success unit",Technical Issue,Low,Technical Issue,Low
-Do you support integration with third-party CRM tools? This is impacting workflow and needs attention soon. for our enterprise workspace,General Query,Medium,General Query,Medium
-Can you explain this unexpected charge on my account? Requesting timely support to avoid escalation. for our finance team,Billing,Medium,Billing,Medium
-I was charged twice for my monthly plan and need a refund. This is informational and not blocking current work. for our startup operations,Billing,Low,Billing,Low
-Please help me reset my password for the admin account. This is impacting workflow and needs attention soon. for our customer success unit,Account,Medium,Account,Medium
-Billing portal shows overdue even though I paid yesterday. We can continue working but this should be fixed quickly. for our IT service team,Billing,Medium,Billing,Medium
-My discount code was not applied to the latest invoice. Requesting timely support to avoid escalation. for our startup operations,Billing,Medium,Billing,Medium
-I was charged twice for my monthly plan and need a refund. Need immediate action before end of business today. for our finance team,Billing,High,Billing,High
-I need to update account ownership and billing contact. We can continue working but this should be fixed quickly. for our IT service team,Account,Medium,Account,Medium
-System reports an error when we try to export reports. This is urgent and blocking production. for our IT service team,Technical Issue,High,Technical Issue,High
-"Is there a tutorial for using custom dashboards? Low urgency, just looking for guidance. for our IT service team",General Query,Low,General Query,Low
-The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
-I cannot connect to the service from our office network. Please prioritize immediately because operations are down. for our finance team,Technical Issue,High,Technical Issue,High
-I was charged twice for my monthly plan and need a refund. We can continue working but this should be fixed quickly. for our finance team,Billing,Medium,Billing,Medium
-My account was suspended and I need reactivation support. We can continue working but this should be fixed quickly. for our enterprise workspace,Account,Medium,Account,Medium
-I was charged twice for my monthly plan and need a refund. Can be handled when the team has capacity. for our customer success unit,Billing,Low,Billing,Low
-"Is there a tutorial for using custom dashboards? No rush, this is a general improvement request. for our support desk",General Query,Low,General Query,Low
-I was charged twice for my monthly plan and need a refund. Please review within the next business day. for our finance team,Billing,Medium,Billing,Medium
-I was charged twice for my monthly plan and need a refund. Please review within the next business day. for our IT service team,Billing,Medium,Billing,Medium
-Invoice amount is incorrect for my last subscription renewal. We can continue working but this should be fixed quickly. for our IT service team,Billing,Medium,Billing,Medium
-"User permissions are wrong for our team workspace. Low urgency, just looking for guidance. for our enterprise workspace",Account,Low,Account,Low
-I was charged twice for my monthly plan and need a refund. Critical issue affecting multiple paying customers. for our support desk,Billing,High,Billing,High
-API endpoint returns a 500 error for valid requests. Please review within the next business day. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-Do you support integration with third-party CRM tools? Please review within the next business day. for our customer success unit,General Query,Medium,General Query,Medium
-Please help me reset my password for the admin account. Requesting timely support to avoid escalation. for our IT service team,Account,Medium,Account,Medium
-My account was suspended and I need reactivation support. Need immediate action before end of business today. for our customer success unit,Account,High,Account,High
-Notifications are not being delivered to our users. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
-I need to update account ownership and billing contact. This is urgent and blocking production. for our support desk,Account,High,Account,High
-The app crashes whenever I upload a file larger than 10MB. Need immediate action before end of business today. for our customer success unit,Technical Issue,High,Technical Issue,High
-My discount code was not applied to the latest invoice. Please prioritize immediately because operations are down. for our finance team,Billing,High,Billing,High
-Invoice amount is incorrect for my last subscription renewal. Need immediate action before end of business today. for our customer success unit,Billing,High,Billing,High
-I need to update account ownership and billing contact. This is urgent and blocking production. for our finance team,Account,High,Account,High
-API endpoint returns a 500 error for valid requests. Need immediate action before end of business today. for our enterprise workspace,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. Please prioritize immediately because operations are down. for our support desk,Technical Issue,High,Technical Issue,High
-"How do I set up a recurring report for my team? Low urgency, just looking for guidance. for our support desk",General Query,Low,General Query,Low
-Do you support integration with third-party CRM tools? Critical issue affecting multiple paying customers. for our enterprise workspace,General Query,High,General Query,High
-I cannot verify my email so onboarding is blocked. This is informational and not blocking current work. for our finance team,Account,Low,Account,Low
-"I need to update account ownership and billing contact. No rush, this is a general improvement request. for our customer success unit",Account,Low,Account,Low
-Notifications are not being delivered to our users. Please review within the next business day. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-My account was suspended and I need reactivation support. We can continue working but this should be fixed quickly. for our startup operations,Account,Medium,Account,Medium
-Payment failed but my bank statement shows the amount deducted. Please review within the next business day. for our enterprise workspace,Billing,Medium,Billing,Medium
-"Do you support integration with third-party CRM tools? No rush, this is a general improvement request. for our customer success unit",General Query,Low,General Query,Low
-Where can I find documentation for the analytics module? We can continue working but this should be fixed quickly. for our enterprise workspace,General Query,Medium,General Query,Medium
-Notifications are not being delivered to our users. We can continue working but this should be fixed quickly. for our finance team,Technical Issue,Medium,Technical Issue,Medium
-Notifications are not being delivered to our users. Please prioritize immediately because operations are down. for our IT service team,Technical Issue,High,Technical Issue,High
-Payment failed but my bank statement shows the amount deducted. Critical issue affecting multiple paying customers. for our startup operations,Billing,High,Billing,High
-Notifications are not being delivered to our users. This is informational and not blocking current work. for our startup operations,Technical Issue,Low,Technical Issue,Low
-My discount code was not applied to the latest invoice. Requesting timely support to avoid escalation. for our IT service team,Billing,Medium,Billing,Medium
-I was charged twice for my monthly plan and need a refund. This is urgent and blocking production. for our support desk,Billing,High,Billing,High
-Is there a tutorial for using custom dashboards? We can continue working but this should be fixed quickly. for our enterprise workspace,General Query,Medium,General Query,Medium
-The app crashes whenever I upload a file larger than 10MB. Please prioritize immediately because operations are down. for our startup operations,Technical Issue,High,Technical Issue,High
-I was charged twice for my monthly plan and need a refund. Requesting timely support to avoid escalation. for our startup operations,Billing,Medium,Billing,Medium
-I cannot connect to the service from our office network. This is informational and not blocking current work. for our startup operations,Technical Issue,Low,Technical Issue,Low
-What is included in the business plan compared to basic? This is informational and not blocking current work. for our customer success unit,General Query,Low,General Query,Low
-The app crashes whenever I upload a file larger than 10MB. Requesting timely support to avoid escalation. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-I cannot connect to the service from our office network. Please prioritize immediately because operations are down. for our customer success unit,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. Requesting timely support to avoid escalation. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
-The app crashes whenever I upload a file larger than 10MB. Critical issue affecting multiple paying customers. for our startup operations,Technical Issue,High,Technical Issue,High
-I cannot connect to the service from our office network. We can continue working but this should be fixed quickly. for our customer success unit,Technical Issue,Medium,Technical Issue,Medium
-I cannot connect to the service from our office network. This is impacting workflow and needs attention soon. for our IT service team,Technical Issue,Medium,Technical Issue,Medium
-Invoice amount is incorrect for my last subscription renewal. Critical issue affecting multiple paying customers. for our support desk,Billing,High,Billing,High
-Invoice amount is incorrect for my last subscription renewal. Please review within the next business day. for our enterprise workspace,Billing,Medium,Billing,Medium
-I am locked out after enabling two factor authentication. Can be handled when the team has capacity. for our enterprise workspace,Account,Low,Account,Low
-Billing portal shows overdue even though I paid yesterday. This is urgent and blocking production. for our IT service team,Billing,High,Billing,High
-I need to update account ownership and billing contact. This is informational and not blocking current work. for our startup operations,Account,Low,Account,Low
-Where can I find documentation for the analytics module? This is informational and not blocking current work. for our IT service team,General Query,Low,General Query,Low
-"Invoice amount is incorrect for my last subscription renewal. Low urgency, just looking for guidance. for our enterprise workspace",Billing,Low,Billing,Low
-I was charged twice for my monthly plan and need a refund. This is urgent and blocking production. for our finance team,Billing,High,Billing,High
-"I need to update account ownership and billing contact. No rush, this is a general improvement request. for our customer success unit",Account,Low,Account,Low
-Can you explain this unexpected charge on my account? This is urgent and blocking production. for our enterprise workspace,Billing,High,Billing,High
-API endpoint returns a 500 error for valid requests. Requesting timely support to avoid escalation. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
-I was charged twice for my monthly plan and need a refund. This is impacting workflow and needs attention soon. for our customer success unit,Billing,Medium,Billing,Medium
-Invoice amount is incorrect for my last subscription renewal. This is urgent and blocking production. for our finance team,Billing,High,Billing,High
-"I cannot verify my email so onboarding is blocked. Low urgency, just looking for guidance. for our finance team",Account,Low,Account,Low
-I need to update account ownership and billing contact. This is informational and not blocking current work. for our startup operations,Account,Low,Account,Low
-I am locked out after enabling two factor authentication. This is urgent and blocking production. for our enterprise workspace,Account,High,Account,High
-Do you support integration with third-party CRM tools? This is urgent and blocking production. for our startup operations,General Query,High,General Query,High
-What is included in the business plan compared to basic? We can continue working but this should be fixed quickly. for our IT service team,General Query,Medium,General Query,Medium
-The app crashes whenever I upload a file larger than 10MB. This is urgent and blocking production. for our support desk,Technical Issue,High,Technical Issue,High
-System reports an error when we try to export reports. This is impacting workflow and needs attention soon. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-API endpoint returns a 500 error for valid requests. Please review within the next business day. for our support desk,Technical Issue,Medium,Technical Issue,Medium
-Notifications are not being delivered to our users. Please review within the next business day. for our enterprise workspace,Technical Issue,Medium,Technical Issue,Medium
-"What is included in the business plan compared to basic? Low urgency, just looking for guidance. for our enterprise workspace",General Query,Low,General Query,Low
-Billing portal shows overdue even though I paid yesterday. This is impacting workflow and needs attention soon. for our enterprise workspace,Billing,Medium,Billing,Medium
-"Invoice amount is incorrect for my last subscription renewal. Low urgency, just looking for guidance. for our customer success unit",Billing,Low,Billing,Low
-Billing portal shows overdue even though I paid yesterday. Critical issue affecting multiple paying customers. for our startup operations,Billing,High,Billing,High
-Dashboard is extremely slow and times out on login. Need immediate action before end of business today. for our finance team,Technical Issue,High,Technical Issue,High
-Payment failed but my bank statement shows the amount deducted. Critical issue affecting multiple paying customers. for our startup operations,Billing,High,Billing,High
-What is included in the business plan compared to basic? Need immediate action before end of business today. for our finance team,General Query,High,General Query,High
-Please help me reset my password for the admin account. We can continue working but this should be fixed quickly. for our customer success unit,Account,Medium,Account,Medium
-My discount code was not applied to the latest invoice. Please review within the next business day. for our finance team,Billing,Medium,Billing,Medium
-I cannot connect to the service from our office network. Need immediate action before end of business today. for our startup operations,Technical Issue,High,Technical Issue,High
-"I am locked out after enabling two factor authentication. No rush, this is a general improvement request. for our finance team",Account,Low,Account,Low
-What is included in the business plan compared to basic? This is impacting workflow and needs attention soon. for our IT service team,General Query,Medium,General Query,Medium
-I cannot connect to the service from our office network. This is urgent and blocking production. for our customer success unit,Technical Issue,High,Technical Issue,High
-I am locked out after enabling two factor authentication. This is impacting workflow and needs attention soon. for our support desk,Account,Medium,Account,Medium
-My discount code was not applied to the latest invoice. This is informational and not blocking current work. for our startup operations,Billing,Low,Billing,Low
-Dashboard is extremely slow and times out on login. Requesting timely support to avoid escalation. for our startup operations,Technical Issue,Medium,Technical Issue,Medium
-Can you explain this unexpected charge on my account? This is informational and not blocking current work. for our customer success unit,Billing,Low,Billing,Low
-API endpoint returns a 500 error for valid requests. Need immediate action before end of business today. for our IT service team,Technical Issue,High,Technical Issue,High
+[TICKET ID] - New Support Ticket received  - Printing error,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:      J:/CE-STA/      please create the folder if it does not yet exist and give R/W access for this and all subfolders.        Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:      Please could you add [NAME] ([COMPANY]. [LOCATION]) ([EMAIL]) to the[LOCATION]admin group for J:/[SERVER].        group                   folders                   User                         GIS_admin                   Access to all folders     /Base_data     /Projects_mxds     /Imagery     /Exports                   [NAME]. [NAME]. [NAME] [NAME]. [NAME]. [NAME]                 Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+Remove File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: Remove File Share Access     Remove file share access for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  File Share:  J:/[SERVER]  Verzeichnis kann gelöscht werden.     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:  Verzeichnis wurde aufgelöst und kann daher gelöscht werden.,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:    J:/SB-´BD_beet_contract_analysis   Voller Zugriff für   [NAME]   [NAME]   [NAME]       Requestor: [NAME]e ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New information received on closed ticket  - Initiated by [COMPANY][LOCATION]- Vulnerable[LOCATION]on [LOCATION]-[ADDRESS],General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Mobile connection,General Query,Medium,Technical Issue,Medium
+Ajuste FoneBoa tarde      Serviço ja ajustado do Fone.      Obrigado,General Query,Medium,Technical Issue,Medium
+Check[LOCATION]for One Drive ([SERVER]-TEST),Account,Medium,Technical Issue,Medium
+email group membership,Technical Issue,Medium,Account,Medium
+[TICKET ID] - New Support Ticket received  - I cannot log in to X-Flow,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Approval to access [NAME]s mailbox,Technical Issue,Medium,General Query,Medium
+Create MS team Account for external consultant,Technical Issue,Medium,Account,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - email list sever,Technical Issue,Medium,Technical Issue,Medium
+ingreso skipe[Image],Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Kein Zugriff mehr auf [COMPANY] Intranet. (OKTA-APP nicht zugewiesen),Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - Herbst. [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:    Bitte geben Sie Zugriff auf den Server [URL].    Ich muss Aktualisierungen von Vorlagen durchführen.    Der Zugriff eilt und wird dringend (!) benötigt.       Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Telefonia - número 101,General Query,Medium,Technical Issue,Medium
+Instalacao impressora EPSON L3150,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Erstellung von generischen Email-Adressen für[LOCATION]Procurement,Technical Issue,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Impressora com atolamento de papel,Technical Issue,Medium,Technical Issue,Medium
+Light User for external - [TICKET ID] - [NAME]Service Request: Light User for external  Create Light user for [USERNAME]. [NAME]     Firstname: [NAME]  Lastname: [NAME]ailaddress: [EMAIL]  Phone: [PHONE] Center: 47054  Function: External Staff  Company: [COMPANY] IT Services  Department: GIT-[ADDRESS]  ZIP: [ADDRESS]  City: [ADDRESS]  Country: [ADDRESS]  Location:[LOCATION] Office:   Expiration date: Not defined     Important: Please indicate in EA14 that it is an external user.     Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date: Jan  3 2019 12:00AM     Additional information:  Please creat an[LOCATION]Admin Account for external.,General Query,Medium,General Query,Medium
+Account information needed,Account,Medium,Account,Medium
+Create Shared Mailbox - [EMAIL] - PI / PO Support,General Query,Medium,General Query,Medium
+Light User for external - [TICKET ID] - [USERNAME]. [NAME]Service Request: Light User for external  Create Light user for [USERNAME]. [NAME]     Firstname: [NAME]  Lastname: [NAME]ailaddress: [EMAIL]  Phone: [PHONE]  Cost Center: 47045  Function: [COMPANY][LOCATION]consultant for MM/WM  Company: [COMPANY]  Department: [ADDRESS]  ZIP: [ADDRESS]  City: [ADDRESS]  Country: [ADDRESS]  Location:[LOCATION] Office:   Expiration date: Not defined     Important: Please indicate in EA14 that it is an external user.     Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date: Jan 10 2019 12:00AM     Additional information:  [COMPANY] is on-boarding the new MM consultant Mrs. [NAME].  Existing MM consultant will be rolling off from [COMPANY] project by March 2019.   Approver = [NAME],General Query,Medium,General Query,Medium
+Atualização pacote office,Technical Issue,Medium,Technical Issue,Medium
+Remove File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION]),Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Liberação de acesso,Technical Issue,Medium,Technical Issue,Medium
+(2020011813239) Verizon Initial Notification,General Query,Medium,General Query,Medium
+Create Shared Mailbox - [EMAIL] - my[COMPANY] HR,General Query,Medium,General Query,Medium
+Scan Mail - [NAME],General Query,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Create[LOCATION]entry [COMPANY]up.ads.dir,General Query,Medium,General Query,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Displaynamen für generische Email-Adressen anpassen,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Problema Computador da [NAME],General Query,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [USERNAME]. [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [USERNAME]. [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RO) Read only  File Share:   J:/FAQ BTR_HR     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Computador Backup para trabalho externo,General Query,Medium,General Query,Medium
+The following system must be set to End Of Life and checked for[LOCATION]reservations:  [SERVER]  -Automated ticket creation-Please perform the following steps for the asset [SERVER]:  1. Remove[LOCATION]Reservations. if applicable  2. Remove DNS-Entries ([COMPANY]up.ads.dir and [COMPANY].de). if applicable  3. Remove Aliase ([COMPANY]up.ads.dir and [COMPANY].de). if applicable  Please close this ticket as soon as the steps have been successfully completed / verified.,General Query,Medium,General Query,Medium
+Impressora Borrando impressões,Technical Issue,Medium,Technical Issue,Medium
+Create Shared Mailbox - [EMAIL] - [COMPANY] travel security,General Query,Medium,General Query,Medium
+Basis User - [TICKET ID] - [USERNAME]. Ole ([COMPANY]. [LOCATION])Service Request: Basis User     Create Windows account for internal user  [USERNAME]. Ole ([COMPANY]. [LOCATION])     Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  47069  Company:  [COMPANY] SE  Department:  [ADDRESS]:  [ADDRESS]  City:  [ADDRESS]  Country:  [ADDRESS]  Office:       Important: Please set the EA10 to the following value: 13592 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  (RW) H:/%username%  (RO) J:/Auftrag  (RW) J:/Info  (RW) J:/Transfer  (RO) J:/Vorlagen  Access to [COMPANY] intranet  Access to [SOFTWARE] ([SERVER])  Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date:  Dec 21 2018 12:00AM     Additional information:   Das Büro von Herrn Hoffmann wird sich imBürogebäude in der [ADDRESS] befinden (Büro: 1.04). Bitte liefern Sie die Hardware so schnell wie möglich aus.  Vielen Dank!  Für Rückfragen stehe ich gern zur Verfügung.  Beste Grüße [NAME] Tel.: [PHONE],General Query,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [USERNAME]. Eva ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:      n:/_Share/    n:/[SERVER]/STA-ALZ/    n:/[SERVER]/STA-EIN/    n:/[SERVER]/STA-KOZ/    n:/[SERVER]/STA-MCE/    n:/[SERVER]/STA-PIU/    n:/[SERVER]/STA-POR/         Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+Light User for external - [USERNAME] - [NAME]Service Request: Light User for external  Create Light user for [NAME]     Firstname: [NAME]  Lastname: [NAME]ailaddress: [EMAIL]  Phone: [PHONE]  Cost Center: 44293  Function: IT Consultant  Company: [COMPANY]  Department: [COMPANY]_IT  Street: [ADDRESS]  ZIP: [ADDRESS]  City: [ADDRESS]  Country: [ADDRESS]  Location:[LOCATION] Office:   Expiration date: Not defined     Important: Please indicate in EA14 that it is an external user.     Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date: Dec 21 2018  7:00AM     Additional information:  User should have[LOCATION]account only and local PC admin to client computers located in the[LOCATION]OU.,General Query,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [USERNAME]. Manfred ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [USERNAME]. Manfred ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:    Bitte für unseren Auszubildenden [NAME]    [SERVER]   Zugriff auf das Laufwerk J:/ECAD   einrichten !       Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+No funciona SkypeNo puedo acceder a Skype,Technical Issue,Medium,Technical Issue,Medium
+Initiated by [COMPANY][LOCATION]- Vulnerable .NET Version on [SERVER],Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Recuperar crapetas y archivos de computador,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Light User for external - [TICKET ID] - [NAME],General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Computer troubles,General Query,Medium,Technical Issue,Medium
+The following system must be set to End Of Life in Nexthink:  [SERVER]  -Automated ticket creation-The following system must be set to End Of Life in Nexthink:  [SERVER],Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Access to Team Email in Outlook,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - When connect through VPN. cannot access R: drive normally. only through IP,Technical Issue,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [NAME]. [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME]. [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:  L:MF     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - instalar impressora,Technical Issue,Medium,Technical Issue,Medium
+Project online does not work,Technical Issue,Medium,General Query,Medium
+File Share Access - [TICKET ID] -Service Request: File Share Access     Grant access to file share for the following user:   (Username: )  Access Type: (RW) Read / Write  File Share:    J:/[LOCATION]  J:/Projekte  [LOCATION]Projekt Management Portal TP   Benutzergruppe Project_Manager_TP       Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+check_mk SD Hostalarm: ([SERVER]) [COMPANY] LS Site2Site[LOCATION]- UP -> DOWN,General Query,High,General Query,High
+Mail Zugriff freischalten,General Query,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Initiated by [COMPANY][LOCATION]- Vulnerable[LOCATION]on [SERVER],General Query,Medium,General Query,Medium
+missing printerOur local printer in [ADDRESS] has disappeared from my laptop. How do I add it back?    Thanks    [NAME]obile: [PHONE]    ,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Shared drive wurde auf dem Falschen Laufwerk erstellt,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - [COMPANY]ulos de Segurança banco do Brasil - Itau e Caixa,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - create[LOCATION]recors for new production ESXi hosts,General Query,High,Technical Issue,Medium
+Closure of an e-mail account,Technical Issue,Medium,Account,Medium
+Remove File Share Access - [TICKET ID] - [NAME] ([COMPANY]A. [LOCATION]),Technical Issue,Medium,Technical Issue,Medium
+Instalação certificado A3,Technical Issue,Medium,Technical Issue,Medium
+Initiated by [COMPANY][LOCATION]- Unsupported Firefox on [SERVER],Technical Issue,Medium,Technical Issue,Medium
+Basis User - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: Basis User     Create Windows account for internal user  [NAME] ([COMPANY]. [LOCATION])     Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  41601  Company:  [COMPANY] SE  Department:  GGR-[ADDRESS]  ZIP:  [ADDRESS]  City:  [ADDRESS]  Country:  [ADDRESS]  Office:       Important: Please set the EA10 to the following value: 13415 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  (RW) H:/%username%  (RO) J:/Auftrag  (RW) J:/Info  (RW) J:/Transfer  (RO) J:/Vorlagen  Access to [COMPANY] intranet  Access to [SOFTWARE] ([SERVER])  Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date:  Jan  2 2019 12:00AM     Additional information:   [NAME] beginnt seine Arbeit erst am 02.01.19. Lieferungend avor bitte an [NAME] oder [NAME] [NAME]ke,General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Configuración perfil [NAME],Account,Medium,General Query,Medium
+Qarantine message,General Query,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:  J:/Topf- und Substratbestellungen     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:  J:/Topf- und Substratbestellungen,Technical Issue,Medium,Technical Issue,Medium
+Instalação de ImpressoraInstalação de impressora HP LaserJet P1102w.,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - Skype not working in Several computers,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - new phone set up,General Query,Medium,General Query,Medium
+User locked out,Account,Medium,Account,Medium
+[TICKET ID] - New Support Ticket received  - Erro no site da RFB,General Query,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Inclusão de Usuaria para recebimento de email do nfe.,Technical Issue,Medium,Technical Issue,Medium
+sharepoint non accessible,Technical Issue,Medium,Technical Issue,Medium
+Extraction of users mailbox and OneDrive storage,General Query,Medium,Technical Issue,Medium
+Access to igarage denied,Account,Medium,Technical Issue,Medium
+ Installation von den richtigen Zertifikaten auf[LOCATION]ServerHallo Zusammen.    auf dem[LOCATION]Server [URL] gibt es ein Zertifikatfehler.    Können Sie es bitte überprüfen und ggf. ein Zertifikat zu installieren?    Danke und Viele Grüße     [NAME]    [Bild],General Query,Medium,General Query,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - Instalar programa BarTender,Technical Issue,Medium,Technical Issue,Medium
+Excel file in Sharepoint corrupted,Technical Issue,Medium,Technical Issue,Medium
+Cannot print labels from label printer,Technical Issue,Medium,Technical Issue,Medium
+reserva[LOCATION]FAvor fazer uma reserva no[LOCATION]para o relogio de ponto. MAC:        [MAC_ADDRESS]     IP na realidade eu não sei. Ou é [IP_ADDRESS] ou [IP_ADDRESS],General Query,Medium,General Query,Medium
+OneDrive nao configuraOi. meu onedrive nao configura (mas email e skype ta ok). Podem ajudar por favor?        [Image],Technical Issue,Medium,Technical Issue,Medium
+Light User for external - [TICKET ID] - Service Request: Light User for external  Create Light user for [USERNAME]     Firstname: [NAME]  Lastname: [NAME]ailaddress: [EMAIL]                                         Phone: [PHONE]                                              Cost Center: 32151  Function: Support  Company: [COMPANY] Einsteinstr. 8. [ADDRESS]  Department: SB-[ADDRESS]  ZIP: [ADDRESS]  City: [ADDRESS]  Country: [ADDRESS]  Location:[LOCATION] Office:   Expiration date: Not defined     Important: Please indicate in EA14 that it is an external user.     Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date: Jan  8 2019 12:00AM     Additional information:,General Query,Medium,General Query,Medium
+new computer,Account,Medium,General Query,Medium
+[NAME] cannot sign into Skype[NAME] cannot sign into Skype.  It says his sign on server is not available. All other O365 apps work.,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] -Service Request: File Share Access     Grant access to file share for the following user:   (Username: )  Access Type: (RW) Read / Write  File Share:  J:/[COMPANY]/HR     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:  Bitte aufnehmen in den Verteiler: [COMPANY]_HR,Technical Issue,Medium,Technical Issue,Medium
+Please change primary email address [NAME]Please change the primary email address for [NAME] to [EMAIL] mailto:[EMAIL]. Thank you.,General Query,Medium,Technical Issue,Medium
+[PASSWORD] - New Support Ticket received  - password reset,Account,Medium,Account,Medium
+[TICKET ID] - New Support Ticket received  - BitLocker lockout notice - [NAME],Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - check_mk SD Hostalarm: ([LOCATION]-WSUS01) [COMPANY] [SERVER] -[LOCATION]Server - UP -> DOWN,General Query,High,General Query,Medium
+[TICKET ID] - Reminder of paused Support Ticket  - Initiated by [COMPANY][LOCATION]- Vulnerable Office on [ADDRESS]-[ADDRESS],General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - desconexion del VPN,General Query,Medium,General Query,Medium
+[PASSWORD] - New Support Ticket received  - Problema con contraseña,Account,Medium,Technical Issue,Medium
+Create Shared Mailbox - [EMAIL] - [EMAIL] ([LOCATION]),General Query,Medium,General Query,Medium
+Acesso as Pastas da Rede,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - missing [ADDRESS] and [ADDRESS],Technical Issue,Medium,Technical Issue,Medium
+Shared Mailbox Access - [AWS_ACCESS_KEY] - [EMAIL],General Query,Medium,General Query,Medium
+[SERVER] R:/ drive,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - Impresoras mal funcionamiento,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  -[LOCATION]Phone Work App Crashing. Request new Certificate,General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Problema no recebimento dos e-mail do [EMAIL],Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Certificado [NAME],Technical Issue,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Blackberry Work,General Query,Medium,General Query,Medium
+Light User for external - [TICKET ID] - [NAME]. [NAME]Service Request: Light User for external  Create Light user for [NAME]     Firstname: [NAME]  Lastname: [NAME]ailaddress: [EMAIL]  Phone: [PHONE]   Cost Center: 47037  Function: Consultant[LOCATION] Company: [COMPANY] Multimedia Solutions GmbH   Department: GIT-[ADDRESS]  ZIP: [ADDRESS]  City: [ADDRESS]  Country: [ADDRESS]  Location:[LOCATION] Office:   Expiration date: Jan 28 2020 12:00AM     Important: Please indicate in EA14 that it is an external user.     Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date: Jan 28 2019 12:00AM     Additional information:,General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Cadastrar usuário + compra de equipamento -[LOCATION]13494 - [NAME],Account,Medium,Account,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Create[LOCATION]entry [SERVER]m.[COMPANY]up.ads.dir,General Query,Medium,General Query,Medium
+Change of character on user principal name,Account,Medium,Account,Medium
+[TICKET ID] - New Support Ticket received  - Mobile Device - [TICKET ID] - [NAME]. [NAME] ([COMPANY]. [LOCATION]),General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Windows update to 1803,General Query,Medium,Technical Issue,Medium
+CONFIGURAÇÃO DA IMPRESSORA - DIGITALIZAR[LOCATION]E-MAIL,Technical Issue,Medium,Technical Issue,Medium
+Create Shared Mailbox - [TICKET ID] - [EMAIL]),General Query,Medium,General Query,Medium
+Acesso a pasta de rede,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Light House - Missing Updates,General Query,Medium,General Query,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - Send as delegate ,Technical Issue,Medium,Technical Issue,Medium
+Unable to access required training website.Hello.  We got notice of training due by the end of June and our normal login credentials were supposed to work.  However. when I tried to login the site would not accept my login credentials for some reason.  Can you look at this to see why I am not able to login?  I was working from home at the time and connected via[LOCATION]when I tried to take the training. The[LOCATION]is provided here:  [URL]  Thanks  [NAME],Account,Medium,Technical Issue,Medium
+[COMPANY] Intranet Editor Rights User  Internal- [TICKET ID]Service Request: Intranet Editor Rights     Set Intranet Editor Rights only user for [NAME] ([COMPANY]A. [LOCATION])     Firstname: [NAME]  Lastname: [NAME]  Cost Center: 22008  Company: [COMPANY] SE & Co. KGaA  Department: [COMPANY]-SC  [ADDRESS]: [ADDRESS]  ZIP: [ADDRESS]  City: [ADDRESS]  Country: Germany  Office: [LOCATION]. IG VI. 3.24     Editor Rights required  Publish News :False  Publish News and Content Pages: True   I dont know: False     Requestor: [NAME] ([COMPANY]A. [LOCATION])  Additional information:,Account,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Instalação de impressora,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - Configure Windows account and additional services for [NAME] ([COMPANY]; [LOCATION]) (Order Request ID [TICKET ID]),Account,Medium,Account,Medium
+File Share Access - [TICKET ID] - [USERNAME]. Ole ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [USERNAME] ([COMPANY]. [LOCATION]) (Username: )  Access Type: (RW) Read / Write  File Share:  J:/Scan     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:  Das Büro von [NAME] wird sich imBürogebäude in der [ADDRESS] befinden (Büro: 1.04). Bitte liefern Sie die Hardware so schnell wie möglich aus.  Vielen Dank!  Für Rückfragen stehe ich gern zur Verfügung.  Beste Grüße [NAME] Tel.: [PHONE],Technical Issue,Medium,Technical Issue,Medium
+Basis User - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: Basis User     Create Windows account for internal user  [USERNAME] [NAME] ([COMPANY]. [LOCATION])     Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  174440  Company:  [COMPANY] [ADDRESS] GmbH  Department:  [ADDRESS]  ZIP:  [ADDRESS]  City:  [ADDRESS]  Country:  Germany  Office:       Important: Please set the EA10 to the following value: 13306 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  (RW) H:/%username%  (RO) J:/Auftrag  (RW) J:/Info  (RW) J:/Transfer  (RO) J:/Vorlagen  Access to [COMPANY] intranet  Access to [SOFTWARE] ([SERVER])  Requestor:  [NAME] ([COMPANY]. [LOCATION])     Desired date:  Sep  3 2018 12:00AM     Additional information:,Account,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [NAME]. [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [USERNAME]. [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:      J:/CE-STA/      please create the folder if it does not yet exist and give R/W access for this and all subfolders.        Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+Acesso as pastas - Mesmos acessos da [NAME],Technical Issue,Medium,Technical Issue,Medium
+Cancelamento Usuário e Acessos [NAME]Por gentileza efetuar o cancelamento do usuário de [NAME].  Obrigada!,Account,Medium,Account,Medium
+instalação da imprssora,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] -  [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:   [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:  Laufwerk J:[LOCATION]     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:  Zugriff auf Laufwerk J:[LOCATION]wird benötigt.  Besten Dank [NAME],Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - reemplazo lamina protectora de telefono,General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - external e-mails not being received,Technical Issue,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Cancelamento Usuário e Acessos [NAME],Account,Medium,Account,Medium
+Zugriff auf BrandnetHallo [COMPANY] Helpdesk    Bitte geben Sie den folgenden AD Accounts das Recht auf das Brandnet ([URL]) zuzugreifen.        *  [NAME]   *  [NAME]   *  [NAME]   Viele Grüße  Ina          [COMPANY] SE & Co. KGaA  [NAME]. 31  [ADDRESS]  Germany     Company Headquarters: [ADDRESS]  Registry [ADDRESS]. [ADDRESS]  Chairman of the Supervisory Board: [NAME]    General Partner: [COMPANY] SE  Registry [ADDRESS]. [ADDRESS]  Chairman of the Supervisory Board: [NAME]xecutive Board: [ADDRESS] (CEO).  [NAME]. [NAME]. [NAME]. [NAME]      [URL]  ,Account,Medium,General Query,Medium
+Light User for external - [TICKET ID] - [NAME]Service Request: Light User for external  Create Light user for [NAME]     Firstname: [NAME]  Lastname: [NAME]ailaddress: [EMAIL]  Phone: [PHONE]  Cost Center: 44288  Function: Vigilant  Company: [COMPANY]  Department: [ADDRESS] [ADDRESS] KM – [ADDRESS].  ZIP:[LOCATION][ADDRESS]  City: [ADDRESS]  Country: [ADDRESS]  Location:[LOCATION] Office:   Expiration date: Not defined     Important: Please indicate in EA14 that it is an external user.     Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date: Dec 22 2018  3:00AM     Additional information:,General Query,Medium,General Query,Medium
+Quarantine email,General Query,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:    J:/RISK-MANAGEMENT (GGR-RIM)       Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:  Bitte schnellstmöglich ausführen.  Vielen Dank!,Technical Issue,Medium,Technical Issue,Medium
+Email Fornecedor - Caixa de SpamOlá. boa tarde!        Temos um fornecedor que o email dele está indo diretamente para nossa caixa de Spam. Poderiam verificar se há como ajustar?        [NAME] - Relacionamento - [COMPANY]-[NAME] <[EMAIL]>               Obrigada.,Technical Issue,Medium,Technical Issue,Medium
+Team-Mailadresse/Kalender in Outlook einbinden[NAME] liebe [NAME].             wir haben für  unsere Teams-Site eine Team-Mailadresse/-Kalender erstellt ([EMAIL]).  Das funktioniert auch in Teams. der Kalender ist dort eingebunden. Nun würden  wir den Kalender/die Inbox auch gern in Outlook einfügen. Im Gegensatz zu dem  Sharepoint-Sammelkalender habe ich es nicht hinbekommen den in Sharepoint zu  öffnen und via „Verbindung mit Outlook erstellen“ in Outlook einzubinden. Wenn  ich den Kalender im Browser öffne werde ich immer zu outlook.office.com  weitergeleitet wo ich den Kalender zwar sehe aber die Funktion zum Einbinden  steht nicht zur Verfügung.             Meine einzige  Idee nach viel Rumklicken ist die Mailadresse manuell in Outlook. wie ein  reguläres Postfach hinzuzufügen. Dafür fehlt mir aber das Passwort. Habt ihr dazu eine Idee?             Vielen Dank und  Viele Grüße             [NAME],Technical Issue,Medium,Technical Issue,Medium
+Unable to open Excel files from email,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - problem with[LOCATION]on new device [SERVER],General Query,Medium,Technical Issue,Medium
+Access to N:/MA Stations,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]D. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]D. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:  Bitte erteilen Sie [NAME] [NAME] Zugriff auf den Ordner J:/SB-H     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:  Verrechnung über[LOCATION]31000,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [USERNAME]. [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:      J:/CE-STA/      please create the folder if it does not yet exist and give R/W access for this and all subfolders.        Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+SR290616 Leaving employee: The user [NAME] ([COMPANY]; [LOCATION]) is going to leave [COMPANY] on 02;01;2018,Account,Medium,Account,Medium
+[TICKET ID] - New Support Ticket received  - reinstalacion computador,General Query,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Marker DB Citrix DotNet login,Technical Issue,Medium,Technical Issue,Medium
+Basis User - [TICKET ID] -Service Request: Basis User     Create Windows account for internal user       Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  44256  Company:    Department:  [ADDRESS] s/n  ZIP:  [ADDRESS]  City:  [ADDRESS]  Country:  Chile  Office:       Important: Please set the EA10 to the following value: [USERNAME] (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  Access to [SOFTWARE] ([SERVER])  Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date:  Jan 16 2019  4:00AM     Additional information:,General Query,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY] [LOCATION]),Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Manutenção de Impressora. [COMPANY]elo: LEXMARK X656de. Setor: Controle de Qualidade.,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Cant get into blackberry to view mail,General Query,Medium,General Query,Medium
+The user [NAME] @[URL] domain mailbox,General Query,Medium,General Query,Medium
+[TICKET ID] - check_mk SD Hostalarm: ([SERVER]) [COMPANY] LS Site2Site[LOCATION]- UP -> DOWN. Rückmeldungen erforderlich.,General Query,High,General Query,High
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: )  Access Type: (RW) Read / Write  File Share:    J:/Stundenbuecher  J:/WST-ALLG       Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+Add user [COMPANY]up/Brodmann for Leasy Support,Account,Medium,Account,Medium
+Lokales Admin Konto für Entwicklerrechner,Technical Issue,Medium,Account,Medium
+Kommandozeile basierte Ablegen von Daten aus dem Netzwerk in einem S3 bucket,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Check_MK: [SOFTWARE] Hostalarm: ([SERVER]) [COMPANY] LS Systemmanagement - [SOFTWARE] Depot Server - UP -> DOWN,General Query,High,General Query,High
+Printer Access,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - OS Updates - [SERVER],General Query,Medium,General Query,Medium
+Change Erstellung - Freigabe für Emailverteiler Standort Deutschland,General Query,Medium,Account,Medium
+Instalação Programa Zebra Design,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - Initiated by [COMPANY][LOCATION]- Vulnerable[LOCATION]on [SERVER],General Query,Medium,General Query,Medium
+bad address in the email,General Query,Medium,General Query,Medium
+Basis User - [TICKET ID] -Service Request: Basis User     Create Windows account for internal user       Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  22502  Company:    Department:  [LOCATION]  Street:    ZIP:    City:    Country:  [ADDRESS]  Office:       Important: Please set the EA10 to the following value: 13706 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  (RW) H:/%username%  (RO) J:/Auftrag  (RW) J:/Info  (RW) J:/Transfer  (RO) J:/Vorlagen  Access to [COMPANY] intranet  Access to [SOFTWARE] ([SERVER])  Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date:  Jan 21 2019 12:00AM     Additional information:,General Query,Medium,General Query,Medium
+Removal of[LOCATION]recordsHi.  Could you please remove the following[LOCATION]records and any subsequent records (e.g. PTR):  - [COMPANY]up.ads.dir  - [COMPANY]up.ads.dir  - [COMPANY]up.ads.dir  - [COMPANY]up.ads.dir  - [COMPANY]up.ads.dir  - [COMPANY]up.ads.dir  Please do not go through [COMPANY] when this is done. I can validate this myself.  Thank you in advance.  [NAME],General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Ajuste de impressora,Technical Issue,Medium,Technical Issue,Medium
+Basis User - [TICKET ID] - [USERNAME]. [NAME] ([COMPANY]. [LOCATION])Service Request: Basis User     Create Windows account for internal user  [USERNAME] ([COMPANY]. [LOCATION])     Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  44257  Company:  [COMPANY]  Department:  [COMPANY]  Street:  Le Tram  ZIP:  [ADDRESS]  City:  [ADDRESS]  Country:    Office:       Important: Please set the EA10 to the following value: 11011 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  Access to [SOFTWARE] ([SERVER])  Requestor:  [NAME] ([COMPANY]. ESBA)     Desired date:  Jan  1 2019 12:00AM     Additional information:,General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - unable to log into skype,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Bitlocker Unlock FAILED,Technical Issue,Medium,Technical Issue,Medium
+Fileserver Migration[LOCATION](From [SERVER] to [SERVER]),Technical Issue,Medium,General Query,Medium
+Acesso pastas e emails Crysmara,Technical Issue,Medium,Technical Issue,Medium
+Basis User for external - [TICKET ID] - [NAME]Service Request: Basis User for external     Create Windows account for external user  [NAME]     Firstname: [NAME]  Lastname: [NAME]ailaddress: [EMAIL]  Phone: [PHONE]  Cost Center: 44251  Function: Business Development Support  Company: [COMPANY]  Department: [COMPANY]SM  Street: [ADDRESS]  ZIP: [ADDRESS]  City: [ADDRESS]  Country: [ADDRESS]  Location:[LOCATION] Office:   Expiration date: Not defined     Important: Please indicate in EA14 that it is an external user.     Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date: Dec 19 2018  7:00AM     Additional information:  User is a part time employee.,General Query,Medium,General Query,Medium
+cant connect to Folder GROUPS,Technical Issue,Medium,Technical Issue,Medium
+Delete Shared Mailbox - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION]),General Query,Medium,General Query,Medium
+SR290606 Leaving employee: The user [NAME] ([COMPANY]; [LOCATION]) is going to leave [COMPANY] on 02;01;2018,Account,Medium,Account,Medium
+Entfernen von F1-Duplikaten im Active Directory,Account,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - CREACIÓN DE CORREO [NAME],Account,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - outlook not working,Technical Issue,Medium,Technical Issue,Medium
+Planilha não esta na rede.,Technical Issue,Medium,Technical Issue,Medium
+Abteilungswechsel Postfachzugang [NAME] Für [NAME] Zugang entfernen.,General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - outlook,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - Skype Anmeldung nicht möglich,Technical Issue,Medium,Technical Issue,Medium
+Missing[LOCATION]GPO for [LOCATION]/[ADDRESS],Account,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]),Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  -[LOCATION]login request,Technical Issue,Medium,Technical Issue,Medium
+Erro ao enviar arquivo pelo E-CAC,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:    J:/[COMPANY] SB International   J:/ALS coordination       Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Blackberry Container and Skype,General Query,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME]. [NAME] ([COMPANY]. [LOCATION]),Technical Issue,Medium,Technical Issue,Medium
+Basis User - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: Basis User     Create Windows account for internal user  [NAME] ([COMPANY]. [LOCATION])     Firstname:  [NAME]  Lastname:  Germerott  Cost Center:  47028  Company:  [COMPANY] SE  Department:  GCT-ESP  [ADDRESS]  ZIP:  [ADDRESS]  City:  [ADDRESS]  Country:  [ADDRESS]  Office:       Important: Please set the EA10 to the following value: 13496 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  (RW) H:/%username%  (RO) J:/Auftrag  (RW) J:/Info  (RW) J:/Transfer  (RO) J:/Vorlagen  Access to [COMPANY] intranet  Access to [SOFTWARE] ([SERVER])  Requestor:  [NAME] ([COMPANY]. [LOCATION])     Desired date:  Dec 18 2018 12:00AM     Additional information:   This order includes Software & Hardware for [NAME]  Hello.   Please create a new[LOCATION]User for mrs. [NAME] with following roles:  P01:  .DE:CO:GR05:OM_CONTROL_SPART  .DE:CO:GR05:PA_CONTROL_SPART  .DE:CO:GR05:PC_HQ_MATBEW  .DE:MM:0001:AUSWERTER_ZR  .DE:MM:0001:INVENTURABWICKL_ZR  .DE:MM:GEIN:LOGISTIK_CONTRL_ZR  .DE:MM:GR05:CONTRL_LOGISTIK_ZR  .DE:SD:0001:ABSATZPLANER_ZR  .NL:MM:0065:BESTANDSPLANER_KA  .US:MM:5850:LOGI_CO  .US:SD:5850:SDP_[SERVER]     BIP:  .BW:CO:CCT:REP  .BW:EC:CORPCT:REP  .BW:ICP:CM:CCT:REP  .BW:ICP:FC:CCT:REP  .BW:ICP:IM:CCT:REP  .BW:ICP:PP:CCT:REP  .DE:BC:ALLE:BASIS_FUNCTIONS  .PC:CF:INPL:CCT,General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Contacts are gone on iPhone 5,General Query,Medium,General Query,Medium
+File Share Access - [TICKET ID] - Lueders.[NAME]([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  Lueders.[NAME]([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:  J:/SB-BD_CAA     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+USB-C port not working,Technical Issue,Medium,Technical Issue,Medium
+instalação power bi PRO,Technical Issue,Medium,Technical Issue,Medium
+Light User for external - [TICKET ID] - [NAME]. SatishService Request: Light User for external  Create Light user for [USERNAME]     Firstname: [NAME]  Lastname: [NAME]ailaddress: [EMAIL]  Phone: [PHONE]  Cost Center: 47046  Function: [COMPANY][LOCATION]consultant in service desk (dispatching)  Company: [COMPANY][LOCATION]India Private Limited  Department: GIT-EST  [ADDRESS]  ZIP: [ADDRESS]  City: [ADDRESS]  Country: [ADDRESS]  Location:[LOCATION] Office:   Expiration date: Not defined     Important: Please indicate in EA14 that it is an external user.     Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date: Jan 10 2019 12:00AM     Additional information:  3 new [COMPANY] service desk consultants replacing present service desk consultants [NAME] and [NAME] who will move to security[LOCATION]team. as they have upgraded their skill sets and they can help existing team.  Approver = [NAME],General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - switch phones,General Query,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - Initiated by [COMPANY][LOCATION]- Vulnerable Intel[LOCATION]on [SERVER],General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Email cell phone problems,General Query,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:    Hello.   please grant me the same access to the same folders as Mr.Diedrich has.       Regards.   irina Karpacheva       Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY] Inc.. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY] Inc.. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:       J:/INS-ZR      J:/INS-ZRMO            J:/INS-ZRRP            J:/ZR_MAS             Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - [NAME] cell phone,General Query,Medium,General Query,Medium
+Liberação acesso a pasta,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME]. [NAME] ([COMPANY]. BRCL)Service Request: File Share Access     Grant access to file share for the following user:  [NAME]. [NAME] ([COMPANY]. BRCL) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:      N:/[SERVER]/STA-CAM        R/W including all subfolders.         Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+Instalação da Impressora SHARP - MX2640 PCL6,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME]. [NAME] ([COMPANY])Service Request: File Share Access     Grant access to file share for the following user:  [NAME]. [NAME] ([COMPANY]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:    j:/MAZ-Guests/2018_Bernal/       [NAME]       Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+J:ZR-Muster: Ordner / Dateien wieder herststellen,Technical Issue,Medium,Account,Medium
+[TICKET ID] - New Support Ticket received  - Acesso [NAME],Technical Issue,Medium,Account,Medium
+[TICKET ID] - New Support Ticket received  - Mobile Device - [TICKET ID] - [NAME] [NAME] ([COMPANY]. [LOCATION]),General Query,Medium,General Query,Medium
+[PASSWORD] - A Support Ticket was forwarded to your role  -[LOCATION]Passwort Reset,General Query,Medium,General Query,Medium
+Basis User - [USERNAME] -Service Request: Basis User     Create Windows account for internal user       Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  44288  Company:    Department:  [LOCATION]  Street:    ZIP:    City:    Country:  [ADDRESS]  Office:       Important: Please set the EA10 to the following value: 13709 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  Access to [SOFTWARE] ([SERVER])  Requestor:  [NAME] ([COMPANY]. [LOCATION])     Desired date:  Jan 15 2019  3:00AM     Additional information:,General Query,Medium,General Query,Medium
+files in ... J:/ZRPMEXIM/MB/BS_raw_data ... deleted by mistake ... backup of all file from that directory needed night 3-4.2.2020,Technical Issue,Medium,Technical Issue,Medium
+Acceso carpeta Produccion en Z,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Emails missing in outlook,Technical Issue,Medium,Technical Issue,Medium
+Basis User - [TICKET ID] - Rodrigues [NAME].[NAME]([COMPANY]. [LOCATION])Service Request: Basis User     Create Windows account for internal user  Rodrigues [NAME].[NAME]([COMPANY]. [LOCATION])     Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  44288  Company:  [COMPANY] S.A.  Department:  [COMPANY]_MA-LOG  Street:  [ADDRESS].  ZIP: [LOCATION][ADDRESS]  City:  [ADDRESS]  Country:  [ADDRESS]  Office:       Important: Please set the EA10 to the following value: 11589 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  Access to [SOFTWARE] ([SERVER])  Requestor:  [NAME] ([COMPANY]. [LOCATION])     Desired date:  Jan 23 2019  3:00AM     Additional information:,General Query,Medium,General Query,Medium
+Basis User - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: Basis User     Create Windows account for internal user  [NAME] ([COMPANY]. [LOCATION])     Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  703291  Company:  [COMPANY] Ukraine t.o.v.  Department:  [COMPANY]_BR-BS  [ADDRESS].  ZIP:  [ADDRESS]  City:  [ADDRESS]  Country:  [ADDRESS]  Office:       Important: Please set the EA10 to the following value: 9778 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  Access to [SOFTWARE] ([SERVER])  Requestor:  [NAME] ([COMPANY]. [LOCATION])     Desired date:  Jan  8 2019 11:00PM     Additional information:,General Query,Medium,General Query,Medium
+Anbindung eines NetztwerklaufwerkesFrau Ariane Knauth braucht schreibenden und lesenden Zugriff auf C:/GEOSYSTEMS Verzeichnis auf dem [SERVER] Server (IP:[IP_ADDRESS]). Können Sie es  das Folder auf ihrem Laptop als lokalen Netzwerkfolder anbinden? Danke  ,Technical Issue,Medium,Technical Issue,Medium
+Unable to obtain[LOCATION]QR code[NAME] is not able to get a QR code to set up the[LOCATION]Verify App on his phone. When he goes to his settings on the [COMPANY] Okta page. the Extra Verification simply says[LOCATION]Enabled but his mobile device need the QR code to activate. Please provide assistance.,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - no accede a el mail,Technical Issue,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Problemas para conectar a la red [COMPANY]ernal,General Query,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - busqueda citrix mas lvs,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [USERNAME]. Patrice ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:      J:/CE-STA/      please create the folder if it does not yet exist and give R/W access for this and all subfolders.        Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [USERNAME]. Dirk ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [USERNAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:  J:/MBCALC     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - problem with[LOCATION]on new device [SERVER],General Query,Medium,Account,Medium
+[TICKET ID] - New Support Ticket received  - Problems with Outlook,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Block email from [NAME] Enright,Technical Issue,Medium,General Query,Medium
+Request to install a VM for testing purposes - Windows Defender ATP,Technical Issue,Medium,Technical Issue,Medium
+Missing connection to all securitytools on system [LOCATION]-TMP01,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Analysis tool missing,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:      Guten morgen zusammen.        könnten Sie mir bitte den Zugriff auf folgende Ordner einrichten?:            J:/HR_[SERVER]  J:/HR_[SERVER]  J:/HR_FRM-WBH  J:/PW-INSBB    Vielen dank im Voraus.                Normal   0         21         false   false   false      DE   X-NONE   X-NONE                                             MicrosoftInternetExplorer4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Skype meeting invitations,Technical Issue,Medium,Technical Issue,Medium
+Virus scan requested since out of control action observed,Technical Issue,Medium,Technical Issue,Medium
+Okta is locked to previous phone Hello. my Okta is locked to my previous iPhone. (The phone is long gone) and I am unable to check my email anymore on my new iPhone. ([NAME] had the same issue),Technical Issue,Medium,General Query,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - firma en email sufre alteraciones,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:  J:/[COMPANY]/IT       Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+Printer at my desk is hesitating again & I have lost Google,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - santiago [NAME] no puede ingresar a office 365,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Alteração de aprovador,General Query,Medium,Technical Issue,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  -  Zugriff Shared Mailbox - [NAME] [EMAIL] auf ITCC,Technical Issue,Medium,Technical Issue,Medium
+Create new DG in[LOCATION]OUPlease create a new Distribution Group that I can add and remove users in AD. It should be called [SERVER] and the email address should be the same.,Account,Medium,Account,Medium
+Missing connection to Updates on system [SERVER],Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Software install,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. ESBA)Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. ESBA) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:      Hello    I need [NAME] to have the same acces than [NAME] had.    Specially this folder: //[SERVER].[COMPANY]up.ads.dir/RH        Thank you    Cheers    [NAME]               Normal   0         21         false   false   false      ES   X-NONE   X-NONE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Requestor: [NAME] ([COMPANY]. ESBA)  Comment:,Technical Issue,Medium,Technical Issue,Medium
+access to s3 bucket,Technical Issue,Medium,Technical Issue,Medium
+Light User - [USERNAME] -Service Request: Light User  Create Light user for      Firstname: [NAME]  Lastname: [NAME]  Cost Center: 47046  Company: [COMPANY] Consulting   Department: GIT-EST  [ADDRESS]  ZIP: [ADDRESS]  City: [ADDRESS]  Country: Germany  Office:      Important: Please set the EA10 to the following value: [EMAIL]  (leave blank. when empty)     Desired date: Sep  4 2018 12:00AM     Requestor: [NAME] ([COMPANY]. [LOCATION])     Additional information:  Bitte auf die Kostenstelle 44220 buchen.,Account,Medium,Account,Medium
+Initiated by GIT: Missing connection to all security tools on [SERVER],Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] -[LOCATION]ServiceService Request: File Share Access     Grant access to file share for the following user: [LOCATION]Service (Username: mtx_service)  Access Type: (RW) Read / Write  File Share:  //[SERVER]/[COMPANY]/COMPANY] Berichte/     Requestor: [NAME] (EXTERNAL. [LOCATION])  Comment:  last request was only ReadOnly. because of requierement changes. Write Access is now needed,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Internet Celular,General Query,Medium,General Query,Medium
+exportar lista de e-mailsGostaria de solicitar um export da lista de e-mails. preferencialmente de excel (.csv) mas pode ser qualquer outra extenção.,Technical Issue,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:      J:/LOEHNE1J:/ZET-PW    J:/Containe    J:/PW-INSBB         Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - XFlow not displaying invoices  that I am trying to code,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - Peters. Ole ([COMPANY]A. [LOCATION]),Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Mobile Device - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION]),General Query,Medium,General Query,Medium
+Basis User - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: Basis User     Create Windows account for internal user  [USERNAME] ([COMPANY]. [LOCATION])     Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  22006  Company:  [COMPANY] SE  Department:  RD-[ADDRESS]  ZIP:  [ADDRESS]  City:  [ADDRESS]  Country:  [ADDRESS]  Office:       Important: Please set the EA10 to the following value: 13747 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  (RW) H:/%username%  (RO) J:/Auftrag  (RW) J:/Info  (RW) J:/Transfer  (RO) J:/Vorlagen  Access to [COMPANY] intranet  Access to [SOFTWARE] ([SERVER])  Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date:  Feb 11 2019 12:00AM     Additional information:,General Query,Medium,General Query,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Leaving Employee - [TICKET ID] - [NAME] (External. [LOCATION]),General Query,Medium,General Query,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Verificar Conta E-mail,Technical Issue,Medium,Technical Issue,Medium
+instalacao do Power BI,Technical Issue,Medium,Technical Issue,Medium
+[COMPANY] list of employees in e-mails is not complete,Technical Issue,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:    [SERVER]-[SERVER]           Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+Acceso a Carpetas,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - [SERVER][LOCATION]- Planned Maintenance - 2018-10-04. 10:00[LOCATION]| cpe0009469 ([COMPANY]) | cpe0013003 ([LOCATION]_Kimberly) [COMPANY] SE. Rückmeldungen erforderlich.,General Query,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [USERNAME]. [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [USERNAME]. [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  Access Type: (RW) Read / Write  File Share:  J:/Topf- und Substratbestellungen     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:  J:/Topf- und Substratbestellungen,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Acesso Skype,Technical Issue,Medium,Technical Issue,Medium
+Java Installation on [SERVER],Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Configuración equipos A6 [NAME],General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Phone - Okta ,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New information received on closed ticket  - Name on desk phone,General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - emails sent from GTC-TR mailbox appear in personal sent items instead GTC-TR sent items,Technical Issue,Medium,Technical Issue,Medium
+[NAME] Mails aus Salesforce an Mailverteiler,General Query,Medium,General Query,Medium
+(2019111410287) Verizon Initial Notification,General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - setup PC,General Query,Medium,General Query,Medium
+Printer at my desk is hesitating when printing,Technical Issue,Medium,Technical Issue,Medium
+Microsoft office error,Technical Issue,Medium,Technical Issue,Medium
+File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: File Share Access     Grant access to file share for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: )  Access Type: (RW) Read / Write  File Share:    J:/CHR   J:/CHR-GLOBE   J:/CHR-H   J:/VORLAGEN       Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:  [ADDRESS] [NAME].  Bitte asap - Head of [LOCATION] HR,Technical Issue,High,Technical Issue,Medium
+The user [USERNAME] need @[USERNAME] mailbox,General Query,Medium,Account,Medium
+[TICKET ID] - A Support Ticket was forwarded to your role  - Initiated by [COMPANY][LOCATION]- Vulnerable Intel[LOCATION]on [SERVER],General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Banco do Brasil não entra. gerente pediu para formatar,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Basis User - [USERNAME] - [USERNAME] ([COMPANY]. [LOCATION]),General Query,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [NAME] (EXTERNAL. [LOCATION]),Technical Issue,Medium,Technical Issue,Medium
+Microsoft apps are not working on the phone,Technical Issue,Medium,General Query,Medium
+Adicionar usuário ao servidor[LOCATION]para o MarketingAdicionar usuário ao servidor[LOCATION]para o Marketing,General Query,Medium,Account,Medium
+Email não está sincronizando no mobileEmail não está sincronizando no mobile,Technical Issue,Medium,General Query,Medium
+File Share Access - [TICKET ID] - [ADDRESS]. [NAME] ([COMPANY]. [LOCATION]),Technical Issue,Medium,Technical Issue,Medium
+Basis User - [TICKET ID] - [NAME]lena ([COMPANY]. [LOCATION])Service Request: Basis User     Create Windows account for internal user  [NAME]lena ([COMPANY]. [LOCATION])     Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  174443  Company:  [COMPANY] Berlin GmbH  Department:  GTC-[ADDRESS]  ZIP:  [ADDRESS]  City:  [ADDRESS]  Country:  Germany  Office:       Important: Please set the EA10 to the following value: 13589 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  (RW) H:/%username%  (RO) J:/Auftrag  (RW) J:/Info  (RW) J:/Transfer  (RO) J:/Vorlagen  Access to [COMPANY] intranet  Access to [SOFTWARE] ([SERVER])  Requestor:  [NAME] ([COMPANY]. [LOCATION])     Desired date:  Jan  1 2019 12:00AM     Additional information:   Liebes [COMPANY]-Team.   Laptop. Bildschirm. Tastatur .Telefon. Headset bitte aus Gerätepool Berlin. falls vorhanden  Tastatur und Laptop bitte englische Tastatur  danke,General Query,Medium,General Query,Medium
+[TICKET ID] - A Support Ticket was forwarded to you  - RES: Order Provisioned: #[TICKET ID] - Install request for Soares. [NAME],General Query,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Pagina web del[LOCATION]( IDASE),General Query,Medium,General Query,Medium
+Light User for external - [TICKET ID] - [USERNAME]. [NAME]Service Request: Light User for external  Create Light user for [USERNAME]. [NAME]     Firstname: [NAME]  Lastname: [NAME]ailaddress: [EMAIL]  Phone: [PHONE]  Cost Center: 47004  Function: Agentur Polen  Company: BizWebStudio  Department: [ADDRESS]-[ADDRESS]  ZIP: [ADDRESS]  City: [ADDRESS]  Country: [ADDRESS]  Location:[LOCATION] Office:   Expiration date: Jun 29 2019 11:00PM     Important: Please indicate in EA14 that it is an external user.     Requestor: [NAME]. [USERNAME] ([COMPANY]. [LOCATION])     Desired date: Dec 17 2018 12:00AM     Additional information:,General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Lost Onedrive files,Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Basis User - [USERNAME] - Klemm. [NAME] ([COMPANY]. [LOCATION]),General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - Acesso skype,Technical Issue,Medium,Technical Issue,Medium
+LIBERAR SENHA INTERNET,General Query,Medium,General Query,Medium
+Remove File Share Access - [TICKET ID] - [NAME] ([COMPANY]. [LOCATION])Service Request: Remove File Share Access     Remove file share access for the following user:  [NAME] ([COMPANY]. [LOCATION]) (Username: [USERNAME])  File Share:  - GROUPS (J:) ZR-SP - GROUPS (J:) ZR-SV - GROUPS(J:) ZRMUSTER     Requestor: [NAME] ([COMPANY]. [LOCATION])  Comment:,Technical Issue,Medium,Technical Issue,Medium
+Create Shared Mailbox - [TICKET ID] - my[COMPANY] HU,General Query,Medium,General Query,Medium
+Email encryption,General Query,Medium,General Query,Medium
+File Share Access - [TICKET ID] - Eubanks. [NAME] ([COMPANY]A. [LOCATION]),Technical Issue,Medium,Technical Issue,Medium
+[TICKET ID] - New Support Ticket received  - Can not get company email on my phone. ,General Query,Medium,General Query,Medium
+[TICKET ID] - New Support Ticket received  - instalacion de impresora [SERVER],Technical Issue,Medium,Technical Issue,Medium
+Basis User - [USERNAME] - [NAME]. [NAME] ([COMPANY]. [LOCATION])Service Request: Basis User     Create Windows account for internal user  [USERNAME]. [NAME] ([COMPANY]. [LOCATION])     Firstname:  [NAME]  Lastname:  [NAME]  Cost Center:  44278  Company:  [COMPANY] Momont Recherche  Department:  [ADDRESS]  City:  [ADDRESS]  Country:    Office:       Important: Please set the EA10 to the following value: 11140 (leave blank. when empty)  Please create Exchange and Skype account.  The user needs at least the following access permissions:  Access to [SOFTWARE] ([SERVER])  Requestor:  [NAME] ([COMPANY]. [LOCATION])     Desired date:  Jan 10 2019 12:00AM     Additional information:,General Query,Medium,General Query,Medium
+Light User for external - [TICKET ID] - [NAME] Service Request: Light User for external  Create Light user for [USERNAME]                           Firstname: [NAME]                        Lastname: [NAME]                                  Mailaddress: [EMAIL]                                      Phone: [PHONE]                                              Cost Center: 32151  Function: Support  Company: [COMPANY] Einsteinstr. 8. [ADDRESS]  Department: [ADDRESS]-[ADDRESS]  ZIP: [ADDRESS]  City: [ADDRESS]  Country: [ADDRESS]  Location:[LOCATION] Office:   Expiration date: Not defined     Important: Please indicate in EA14 that it is an external user.     Requestor: [NAME] ([COMPANY]. [LOCATION])     Desired date: Jan  8 2019 12:00AM     Additional information:,General Query,Medium,General Query,Medium

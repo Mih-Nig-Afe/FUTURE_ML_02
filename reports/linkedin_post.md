@@ -18,8 +18,8 @@ What I implemented:
 
 Final selected models:
 
-- Category: logistic_regression (F1 macro: 1.0000)
-- Priority: logistic_regression (F1 macro: 1.0000)
+- Category: linear_svc (F1 macro: 0.7318)
+- Priority: linear_svc (F1 macro: 0.8308)
 
 Business impact:
 

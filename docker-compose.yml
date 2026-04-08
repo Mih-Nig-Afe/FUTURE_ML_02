@@ -1,4 +1,14 @@
 services:
+  datasets:
+    build: .
+    working_dir: /app
+    environment:
+      KAGGLE_CONFIG_DIR: /root/.kaggle
+    command: python scripts/fetch_task2_datasets.py
+    volumes:
+      - .:/app
+      - ${HOME}/.kaggle:/root/.kaggle:ro
+
   task2:
     build: .
     working_dir: /app

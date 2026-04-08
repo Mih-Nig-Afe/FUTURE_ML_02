@@ -1,5 +1,4 @@
-,Account,Billing,General Query,Technical Issue
-Account,123,0,0,0
-Billing,0,157,0,0
-General Query,0,0,87,0
-Technical Issue,0,0,0,193
+,Account,General Query,Technical Issue
+Account,13,5,7
+General Query,4,82,20
+Technical Issue,6,14,146

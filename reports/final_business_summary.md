@@ -13,14 +13,14 @@ Tickets are cleaned (lowercasing, punctuation removal, stopword removal), transf
 - Account
 - General Query
 
-Selected category model: **logistic_regression**
+Selected category model: **linear_svc**
 
 Category test performance:
 
-- Accuracy: 1.0000
-- Precision (macro): 1.0000
-- Recall (macro): 1.0000
-- F1 (macro): 1.0000
+- Accuracy: 0.8114
+- Precision (macro): 0.7403
+- Recall (macro): 0.7244
+- F1 (macro): 0.7318
 
 ## How priority is decided
 
@@ -30,14 +30,14 @@ A second text classification model predicts urgency labels:
 - Medium
 - Low
 
-Selected priority model: **logistic_regression**
+Selected priority model: **linear_svc**
 
 Priority test performance:
 
-- Accuracy: 1.0000
-- Precision (macro): 1.0000
-- Recall (macro): 1.0000
-- F1 (macro): 1.0000
+- Accuracy: 0.9899
+- Precision (macro): 0.9949
+- Recall (macro): 0.7500
+- F1 (macro): 0.8308
 
 ## How this improves support operations
 
