@@ -84,6 +84,10 @@ FUTURE_ML_02/
 
    docker compose run --rm datasets
 
+2b. Verify Task 2 requirement coverage inside Docker:
+
+   docker compose run --rm verify
+
 This Docker dataset flow uses:
 
 - `kaggle datasets download adisongoh/it-service-ticket-classification-dataset`
@@ -104,7 +108,7 @@ Active training dataset used by the NLP pipeline:
 
 - `data/raw/support_tickets.csv` (canonical merge built from all available sources above)
 
-Kaggle auth requirement:
+Kaggle auth requirement (optional but required to download Kaggle datasets):
 
 - Recommended one-time setup for persistent local secret:
 
@@ -115,6 +119,7 @@ Kaggle auth requirement:
 
 - Preferred: `KAGGLE_API_TOKEN` in local `.env` before running Docker.
 - Alternative: put your Kaggle API token file at `~/.kaggle/kaggle.json` on the host machine.
+- If neither is provided, the dataset fetch service runs but skips Kaggle downloads and the strict dataset-source checks will fail.
 
 3. Launch Jupyter:
 

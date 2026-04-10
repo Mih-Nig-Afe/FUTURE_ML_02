@@ -10,6 +10,29 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
+KAGGLE_IT_URL = (
+    "https://www.kaggle.com/datasets/adisongoh/it-service-ticket-classification-dataset"
+)
+KAGGLE_CUSTOMER_URL = (
+    "https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset"
+)
+
+KAGGLE_IT_FILE = (
+    PROJECT_ROOT
+    / "data"
+    / "raw"
+    / "kaggle_it_service_ticket_classification"
+    / "all_tickets_processed_improved_v3.csv"
+)
+KAGGLE_CUSTOMER_FILE = (
+    PROJECT_ROOT
+    / "data"
+    / "raw"
+    / "kaggle_customer_support_ticket"
+    / "customer_support_tickets.csv"
+)
+CANONICAL_DATASET = PROJECT_ROOT / "data" / "raw" / "support_tickets.csv"
+
 
 def check_exists(path: Path) -> tuple[bool, str]:
     if path.exists():
@@ -92,6 +115,71 @@ def check_model_comparison(path: Path, expected_baseline: str) -> tuple[bool, st
     return True, f"MODEL COMPARISON OK ({path.name}): {len(model_names)} models"
 
 
+def check_dataset_sources() -> list[tuple[bool, str]]:
+    checks: list[tuple[bool, str]] = []
+
+    checks.append(
+        (
+            CANONICAL_DATASET.exists(),
+            (
+                f"FOUND canonical merged dataset: {CANONICAL_DATASET.relative_to(PROJECT_ROOT)}"
+                if CANONICAL_DATASET.exists()
+                else "MISSING canonical merged dataset: data/raw/support_tickets.csv"
+            ),
+        )
+    )
+
+    checks.append(
+        (
+            KAGGLE_IT_FILE.exists(),
+            (
+                "FOUND Kaggle IT Service dataset file: "
+                f"{KAGGLE_IT_FILE.relative_to(PROJECT_ROOT)}"
+                if KAGGLE_IT_FILE.exists()
+                else (
+                    "MISSING Kaggle IT Service dataset file: "
+                    "data/raw/kaggle_it_service_ticket_classification/all_tickets_processed_improved_v3.csv"
+                )
+            ),
+        )
+    )
+
+    checks.append(
+        (
+            KAGGLE_CUSTOMER_FILE.exists(),
+            (
+                "FOUND Kaggle Customer Support dataset file: "
+                f"{KAGGLE_CUSTOMER_FILE.relative_to(PROJECT_ROOT)}"
+                if KAGGLE_CUSTOMER_FILE.exists()
+                else (
+                    "MISSING Kaggle Customer Support dataset file: "
+                    "data/raw/kaggle_customer_support_ticket/customer_support_tickets.csv"
+                )
+            ),
+        )
+    )
+
+    readme_path = PROJECT_ROOT / "README.md"
+    if not readme_path.exists():
+        checks.append((False, "MISSING README.md for dataset source link verification"))
+        return checks
+
+    readme_content = readme_path.read_text(encoding="utf-8")
+    for url in [KAGGLE_IT_URL, KAGGLE_CUSTOMER_URL]:
+        checks.append(
+            (
+                url in readme_content,
+                (
+                    f"README includes required dataset link: {url}"
+                    if url in readme_content
+                    else f"README missing required dataset link: {url}"
+                ),
+            )
+        )
+
+    return checks
+
+
 def check_summary_content() -> tuple[bool, str]:
     summary_path = PROJECT_ROOT / "reports" / "final_business_summary.md"
     if not summary_path.exists():
@@ -134,6 +222,7 @@ def check_visuals() -> tuple[bool, str]:
 def main() -> int:
     checks: list[tuple[bool, str]] = []
     checks.extend(required_files_check())
+    checks.extend(check_dataset_sources())
     checks.append(
         check_model_comparison(
             PROJECT_ROOT / "data" / "processed" / "category_model_comparison.csv",

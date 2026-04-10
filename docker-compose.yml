@@ -2,8 +2,6 @@ services:
   datasets:
     build: .
     working_dir: /app
-    env_file:
-      - .env
     environment:
       KAGGLE_CONFIG_DIR: /root/.kaggle
       KAGGLE_API_TOKEN: ${KAGGLE_API_TOKEN:-}
@@ -16,6 +14,13 @@ services:
     build: .
     working_dir: /app
     command: python src/run_pipeline.py
+    volumes:
+      - .:/app
+
+  verify:
+    build: .
+    working_dir: /app
+    command: python scripts/verify_task2_requirements.py
     volumes:
       - .:/app
 
