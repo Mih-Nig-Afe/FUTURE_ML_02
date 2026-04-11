@@ -50,7 +50,6 @@ OUTPUT_ARTIFACT_PATHS = [
     MODELS_DIR / "priority_model.pkl",
     REPORTS_DIR / "final_business_summary.md",
     REPORTS_DIR / "error_analysis.md",
-    REPORTS_DIR / "linkedin_post.md",
     REPORTS_DIR / "presentation_talk_track.md",
     REPORTS_DIR / "TASK2_REQUIREMENTS_STATUS.md",
 ]
@@ -728,51 +727,6 @@ def write_error_analysis(
     (REPORTS_DIR / "error_analysis.md").write_text(error_text + "\n", encoding="utf-8")
 
 
-def write_linkedin_post(
-    category_model_name: str,
-    priority_model_name: str,
-    category_metrics: dict[str, float],
-    priority_metrics: dict[str, float],
-) -> None:
-    post = textwrap.dedent(
-        f"""
-        # LinkedIn Post Draft
-
-        I completed **Future Interns ML Task 2 (2026): Support Ticket Classification and Prioritization**.
-
-        I built a machine learning workflow that reads ticket text and predicts both:
-
-        - ticket category (Billing, Technical Issue, Account, General Query)
-        - ticket priority (High, Medium, Low)
-
-        What I implemented:
-
-        - text cleaning (lowercasing, punctuation handling, stopword removal)
-        - TF-IDF feature extraction
-        - category classification model comparison
-        - priority classification model comparison
-        - confusion matrices and class-wise performance reports
-        - business-ready recommendations for support operations
-
-        Final selected models:
-
-        - Category: {category_model_name} (F1 macro: {category_metrics['f1_macro']:.4f})
-        - Priority: {priority_model_name} (F1 macro: {priority_metrics['f1_macro']:.4f})
-
-        Business impact:
-
-        - faster ticket routing
-        - quicker escalation for urgent issues
-        - lower manual triage effort
-        - improved support SLA tracking
-
-        #MachineLearning #NLP #TextClassification #CustomerSupport #Python #ScikitLearn #FutureInterns
-        """
-    ).strip()
-
-    (REPORTS_DIR / "linkedin_post.md").write_text(post + "\n", encoding="utf-8")
-
-
 def write_presentation_talk_track(
     category_model_name: str,
     priority_model_name: str,
@@ -1085,12 +1039,6 @@ def main() -> None:
         priority_metrics=priority_metrics,
         category_confusions=top_confusion_pairs(category_matrix),
         priority_confusions=top_confusion_pairs(priority_matrix),
-    )
-    write_linkedin_post(
-        category_model_name=category_model_name,
-        priority_model_name=priority_model_name,
-        category_metrics=category_metrics,
-        priority_metrics=priority_metrics,
     )
     write_presentation_talk_track(
         category_model_name=category_model_name,

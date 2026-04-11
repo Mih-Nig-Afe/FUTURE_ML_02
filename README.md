@@ -153,7 +153,6 @@ Reports:
 - reports/final_business_summary.md
 - reports/error_analysis.md
 - reports/TASK2_REQUIREMENTS_STATUS.md
-- reports/linkedin_post.md
 - reports/presentation_talk_track.md
 
 ## Notes

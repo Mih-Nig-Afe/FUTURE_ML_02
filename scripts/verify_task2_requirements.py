@@ -56,7 +56,6 @@ def required_files_check() -> list[tuple[bool, str]]:
         PROJECT_ROOT / "figures" / "priority_confusion_matrix.html",
         PROJECT_ROOT / "reports" / "final_business_summary.md",
         PROJECT_ROOT / "reports" / "error_analysis.md",
-        PROJECT_ROOT / "reports" / "linkedin_post.md",
         PROJECT_ROOT / "reports" / "presentation_talk_track.md",
         PROJECT_ROOT / "reports" / "TASK2_REQUIREMENTS_STATUS.md",
         PROJECT_ROOT / "docs" / "ML_TASK2_PROJECT_PLAN.md",

@@ -29,7 +29,6 @@ Repository deliverables:
 - figures with Plotly visuals
 - reports/final_business_summary.md
 - reports/error_analysis.md
-- reports/linkedin_post.md
 - reports/presentation_talk_track.md
 - scripts/verify_task2_requirements.py
 
